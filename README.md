@@ -1,2 +1,2 @@
-# Created a Self-Hosted Church Website
+# Creating a Self-Hosted Church Website
 
