@@ -2,5 +2,5 @@
 
 Table of Contents
 * [About](README.md)
-* [Test Chapter](test-chapter.md)
-
+* [Deployment](deployment.md)
+* [Staging](staging.md)
