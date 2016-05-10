@@ -4,7 +4,7 @@ A GitBook Documenting a Research and Design Sprint
 
 Table of Contents
 
-GitBook: http://katherinemichel.gitbooks.io/
+GitBook: http://katherinemichel.gitbooks.io/book/katherinemichel/creating-a-self-hosted-church-website
 <br> 
 GitHub repo: https://github.com/KatherineMichel/creating-a-self-hosted-church-website
 
