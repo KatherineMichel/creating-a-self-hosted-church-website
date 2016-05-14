@@ -1,4 +1,4 @@
-# Deployment
+# Staged Deployment
 
 ## Heroku Sandbox App
 
