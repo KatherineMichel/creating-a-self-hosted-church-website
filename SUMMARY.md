@@ -8,5 +8,5 @@ Table of Contents
    * [Flow Diagram](flow-diagram.md)
    * [Wireframe](wireframe.md)
    * [High-Fidelity Prototype](high-fidelity-prototype.md)
-* [Deployment](deployment.md)
-* [Staging](staging.md)
+* [Staged Deployment](staged-deployment.md)
+
