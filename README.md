@@ -10,6 +10,7 @@ Table of Contents
    * [Flow Diagram](flow-diagram.md)
    * [Wireframe](wireframe.md)
    * [High-Fidelity Prototype](high-fidelity-prototype.md)
+* [Coding](coding.md)
 * [Staged Deployment](staged-deployment.md)
 
 GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-self-hosted-church-website/
