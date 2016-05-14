@@ -7,6 +7,8 @@ Table of Contents
 * [Same Template, Two Situations](same-template-two-situations.md)
 * [Pros and Cons of Self-Hosting](pros-and-cons-of-self-hosting.md)
 * [Design](design.md)
+* [Wireframe](wireframe.md)
+* [High-Fidelity Prototype](high-fidelity-prototype.md)
 * [Deployment](deployment.md)
 * [Staging](staging.md)
 
@@ -15,4 +17,5 @@ GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-self-hosted-chur
 GitHub repo: https://github.com/KatherineMichel/creating-a-self-hosted-church-website
 
 © [Katherine Michel](https://twitter.com/katimichel) 2016
+
 
