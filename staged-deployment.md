@@ -1,7 +1,9 @@
 # Staged Deployment
 
-## Heroku Sandbox App
+## Git
 
-## Other Options
+## Heroku
 
-* Digital Ocean (domain name needed)
+## Staging
+
+## Production
