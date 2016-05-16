@@ -9,7 +9,7 @@ Table of Contents
 * [Pros and Cons of Self-Hosting](pros-and-cons-of-self-hosting.md)
 * [Design](design.md)
    * [Flow Diagram](flow-diagrams.md)
-   * [Wireframe](wireframe.md)
+   * [Mockup](mockup.md)
    * [High-Fidelity Prototype](high-fidelity-prototype.md)
 * [Project Management](project-management.md)
 * [Common Options](common-options.md)
