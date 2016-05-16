@@ -6,6 +6,8 @@
 
 ## WordPress
 
+Same template, two situations
+
 ### Pros and Cons
 
 ## Django
