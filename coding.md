@@ -1,9 +1,17 @@
 # Coding
 
-## CSS and HTML
+## Common Options
 
-## JavaScript/jQuery
+## Jekyll
 
-## Models
+### Pros and Cons
 
-## Views
+## WordPress
+
+Same template, two situations
+
+### Pros and Cons
+
+## Django
+
+### Pros and Cons
