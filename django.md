@@ -1,8 +1,13 @@
 # Django
 
-## CSS and HTML
+## Pinax
 
-## JavaScript/jQuery
+* Static site project
+* Blog app
+
+## CSS, HTML, JavaScript
+
+* Bootstrap
 
 ## Models
 
