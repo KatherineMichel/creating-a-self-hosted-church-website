@@ -6,8 +6,8 @@ A GitBook Documenting a Research and Design Sprint
 
 Table of Contents
 * [About](README.md)
-* [Same Template, Two Situations](same-template-two-situations.md)
 * [Pros and Cons of Self-Hosting](pros-and-cons-of-self-hosting.md)
+* [Options](options.md)
 * [Design](design.md)
    * [Flow Diagram](flow-diagram.md)
    * [Wireframe](wireframe.md)
