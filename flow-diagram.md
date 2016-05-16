@@ -1,5 +1,9 @@
 # Flow Diagram
 
-Flow diagram made using Google Drawing
+Website flow diagram made using Google Drawing
+![](website-flow-diagram.jpg)
 
-Flow diagram made using Google Drawing
+Website homepage flow diagram made using Google Drawing
+![](website-homepage-flow-diagram.jpg)
+
+
