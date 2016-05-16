@@ -3,7 +3,7 @@
 Table of Contents
 * [About](README.md)
 * [Pros and Cons of Self-Hosting](pros-and-cons-of-self-hosting.md)
-* [Options](options.md)
+* [Common Options](common-options.md)
 * [Design](design.md)
    * [Flow Diagram](flow-diagram.md)
    * [Wireframe](wireframe.md)
