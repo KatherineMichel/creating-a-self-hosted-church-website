@@ -33,5 +33,5 @@ GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-self-hosted-chur
 <br> 
 GitHub repo: https://github.com/KatherineMichel/creating-a-self-hosted-church-website
 
-© [Katherine Michel](https://twitter.com/katimichel) 2016
+© [Katherine Michel](http://katherinemichel.github.io) 2016
 
