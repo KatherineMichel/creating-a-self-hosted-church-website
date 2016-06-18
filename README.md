@@ -1,6 +1,6 @@
 # Creating a Self-Hosted Church Website
 
-A GitBook Documenting a Research and Design Sprint
+A GitBook Documenting an Agile Sprint
 
 ![](cover.jpg)
 
