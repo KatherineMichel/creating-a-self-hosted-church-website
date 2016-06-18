@@ -1,7 +1,7 @@
 # Coding
 
 * [Template](coding/template.md)
-* [Django](coding/django.md)
-* [Staged Deployment](coding/staged-deployment.md)
 
-
+* [Design](design.md)
+* [Django](django.md)
+* [Staged Deployment](staged-deployment.md)
