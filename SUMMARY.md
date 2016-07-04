@@ -4,7 +4,6 @@ Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Project Management](project-management/project-management.md)
-   * [Statement of Work](project-management/statement-of-work.md)
    * [Agile Sprint Milestones](project-management/agile-sprint-milestones.md)
 * [Research Sprint](research-sprint/research-sprint.md)
    * [User Stories](research-sprint/user-stories.md)
