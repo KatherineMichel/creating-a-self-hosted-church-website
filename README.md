@@ -21,6 +21,7 @@ Table of Contents
    * [Design](coding/design.md)
    * [Django](coding/django.md)
    * [Staged Deployment](coding/staged-deployment.md)
+   * [Open-Source GitHub Organization](coding/open-source-github-organization.md)
 * [Administration](administration.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
