@@ -1,4 +1,4 @@
-# Django
+# Django Approach
 
 Templates (Lessons learned)
 
