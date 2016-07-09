@@ -20,7 +20,6 @@ Table of Contents
    * [Staged Deployment](django-approach/staged-deployment.md)
    * [Administration](django-approach/administration.md)
 
-* [Coding](coding/coding.md)
    * [Design](coding/design.md)
    * [Accessibility](design-sprint/accessibility.md)
 * [User Testing](user-testing/user-testing.md)
