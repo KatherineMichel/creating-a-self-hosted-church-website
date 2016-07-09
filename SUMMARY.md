@@ -18,7 +18,6 @@ Table of Contents
 
 * [Coding](coding/coding.md)
    * [Design](coding/design.md)
-   * [Django](coding/django.md)
    * [Accessibility](design-sprint/accessibility.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
