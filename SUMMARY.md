@@ -21,7 +21,7 @@ Table of Contents
    * [Administration](django-approach/administration.md)
 
    * [Design](coding/design.md)
-   * [Accessibility](design-sprint/accessibility.md)
+* [Accessibility](accessibility.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
