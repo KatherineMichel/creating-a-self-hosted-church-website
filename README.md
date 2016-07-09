@@ -16,7 +16,7 @@ Table of Contents
    * [Flow Diagram](design-sprint/flow-diagram-rough-draft.md)
    * [Wireframes](design-sprint/wireframes.md)
    * [High-Fidelity Prototype](design-sprint/high-fidelity-prototype.md)
-* [Open-Source GitHub Organization](coding/open-source-github-organization.md)
+* [Open-Source GitHub Organization](open-source-github-organization.md)
 * [Jekyll Approach](jekyll-approach/jekyll-approach.md)
    * [Staged Deployment](jekyll-approach/staged-deployment.md)
    * [Administration](jekyll-approach/administration.md)
