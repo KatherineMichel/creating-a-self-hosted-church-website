@@ -23,8 +23,6 @@ Table of Contents
 * [Django Approach](django-approach/django-approach.md)
    * [Staged Deployment](django-approach/staged-deployment.md)
    * [Administration](django-approach/administration.md)
-
-   * [Design](coding/design.md)
 * [Accessibility](accessibility.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
