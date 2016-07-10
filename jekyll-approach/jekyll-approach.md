@@ -7,3 +7,7 @@ Tools Used:
 * GitHub gh-pages
 
 [Site](https://katherinemichel.github.io/self-hosted-church-website-jekyll)
+
+Homemade site compared to original
+
+Squarespace vs. Jekyll
