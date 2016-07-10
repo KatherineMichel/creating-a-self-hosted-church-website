@@ -11,18 +11,6 @@ Tools Used:
 Templates Used:
 * Homepage: 
 
-3 Col Portfolio
-http://startbootstrap.com/template-overviews/3-col-portfolio
-
-Portfolio Item
-http://startbootstrap.com/template-overviews/portfolio-item
-
-Blog Home
-http://startbootstrap.com/template-overviews/blog-home/
-
-Blog Post
-http://startbootstrap.com/template-overviews/blog-post/
-
 [Site](https://katherinemichel.github.io/self-hosted-church-website-jekyll)
 
 [Code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)
