@@ -9,6 +9,7 @@ Table of Contents
 * [Introduction](introduction.md)
 * [Open-Source GitHub Organization](open-source-github-organization.md)
 * [Jekyll Approach](jekyll-approach/jekyll-approach.md)
+   * [Starter Templates](jekyll-approach/starter-templates.md)
    * [Staged Deployment](jekyll-approach/staged-deployment.md)
    * [Administration](jekyll-approach/administration.md)
 * [Django Approach](django-approach/django-approach.md)
