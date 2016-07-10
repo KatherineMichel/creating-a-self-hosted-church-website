@@ -1,6 +1,13 @@
 # Original Website
 
-startbootstrap-3-col-portfolio.png
-startbootstrap-blog-home.png
-startbootstrap-blog-post.png
-startbootstrap-portfolio-item.png	
+Homepage
+![](images/startbootstrap-3-col-portfolio.png)
+
+Homepage Detail Page
+![](images/startbootstrap-portfolio-item.png)
+
+Blog Homepage
+![](images/startbootstrap-blog-home.png)
+
+Blog Post
+![](images/startbootstrap-blog-post.png)
