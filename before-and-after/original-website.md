@@ -1,13 +1,18 @@
 # Original Website
 
 Homepage
-![](images/startbootstrap-3-col-portfolio.png)
+![](images/prettyprairieumc-org-homepage.png)
 
 Homepage Detail Page
-![](images/startbootstrap-portfolio-item.png)
+![](images/prettyprairieumc-org-homepage-detail.png)
+
+Activities Page
+![](images/prettyprairieumc-org-activities.png)
 
 Blog Homepage
-![](images/startbootstrap-blog-home.png)
+![](images/prettyprairieumc-org-new-blog.png)
 
-Blog Post
-![](images/startbootstrap-blog-post.png)
+About
+![](images/prettyprairieumc-org-about.png)
+
+
