@@ -25,3 +25,5 @@ Jekyll Site
 * [Start Bookstrap Unstyled Starter Templates](http://startbootstrap.com/template-categories/unstyled)
 * GitHub personal or organizational account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
+
+## Staged Deployment
