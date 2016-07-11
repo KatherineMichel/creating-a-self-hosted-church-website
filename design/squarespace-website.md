@@ -1,4 +1,4 @@
-# Original Website
+# Squarespace Website
 
 Homepage
 ![](images/original-website-homepage.png)
