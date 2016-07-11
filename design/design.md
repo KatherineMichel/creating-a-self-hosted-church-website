@@ -9,4 +9,4 @@ The design of this self-hosted website will be made using a very popular and use
 * Blog Homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
 * Blog Post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
-Screenshots of the Squarespace website, Start Bootstrap templates, and self-hosted website design can be found in the following sections. 
+Screenshots of the Squarespace website, Start Bootstrap templates, self-hosted website design, and a side-by-side comparison between the Squarespace website and self-hosted website design can be found in the following sections. 
