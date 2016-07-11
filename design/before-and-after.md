@@ -4,6 +4,7 @@ Squarespace Homepage
 ![](images/original-website-homepage.png)
 
 Self-Hosted Website Homepage
+![](images/self-hosted-website-homepage.png)
 
 Squarespace Homepage Detail Page
 ![](images/original-website-homepage-detail.png)
@@ -24,3 +25,4 @@ Squarespace About Page
 ![](images/original-website-about.png)
 
 Self-Hosted Website About Page
+![](images/self-hosted-website-about-page.png)
