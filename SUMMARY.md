@@ -9,9 +9,9 @@ Table of Contents
    * [Starter Templates](design/starter-templates.md)
    * [Self-Hosted Website](design/self-hosted-website.md)
    * [Before and After](design/before-and-after.md)
-* [Jekyll Approach](jekyll-approach/jekyll-approach.md)
-   * [Staged Deployment](jekyll-approach/staged-deployment.md)
-   * [Administration](jekyll-approach/administration.md)
+* [Coding](coding/coding.md)
+   * [Jekyll Approach](coding/jekyll-approach.md)
+
 * [Django Approach](django-approach/django-approach.md)
    * [Staged Deployment](django-approach/staged-deployment.md)
    * [Administration](django-approach/administration.md)
