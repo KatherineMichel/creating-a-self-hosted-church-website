@@ -1,6 +1,8 @@
 # Jekyll Approach
 
-Finished Example Website: [Website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [Code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)
+Finished Example [Website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [Code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)
+<br><br>
+Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
 
 ## Background
 
