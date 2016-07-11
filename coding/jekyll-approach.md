@@ -28,4 +28,6 @@ Jekyll Site
 
 ## Staged Deployment
 
+A Jekyll site hosted through GitHub gh-pages does not offer an obvious staged deployment option. It is assumed that a site made using the Jekyll approach in this GitBook would be simple/low traffic enough that updates could be verified locally and pushed directly to gh-pages. 
+
 ## Administration
