@@ -15,10 +15,7 @@ Table of Contents
    * [Before and After](design/before-and-after.md)
 * [Coding](coding/coding.md)
    * [Jekyll Approach](coding/jekyll-approach.md)
-
-* [Django Approach](django-approach/django-approach.md)
-   * [Staged Deployment](django-approach/staged-deployment.md)
-   * [Administration](django-approach/administration.md)
+   * [Django Approach](django-approach/django-approach.md)
 
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
