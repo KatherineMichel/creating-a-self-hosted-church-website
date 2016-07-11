@@ -15,8 +15,9 @@ Navbar
 
 ## Views
 
+## Administration
+
 ## Special Functionality
 
 * Admin
-* Tagging (I used django taggit)
 * Pagination
