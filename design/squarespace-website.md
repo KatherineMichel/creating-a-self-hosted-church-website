@@ -12,7 +12,7 @@ Activities Page
 Blog Homepage
 ![](images/original-website-blog.png)
 
-About
+About Page
 ![](images/original-website-about.png)
 
 
