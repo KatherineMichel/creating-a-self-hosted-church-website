@@ -4,6 +4,14 @@ In my GitBook [Church Website and Marketing on a Budget](http://katherinemichel.
 
 In addition to hosting a site through a host such as Squarespace, a more advanced and cheaper option exists: self-hosting. In this Gitbook, I will show how, with a bit of expert knowledge, a small church can host a site for only the cost of its domain. 
 
+I will demonstrate two approaches:
+* A Jekyll hosted on GitHub with updated made directly through GitHub as a dashboard
+* A Django site with code stored on GitHub, but deployed via Heroku, with updates made through an Admin dashboard
+
+
+
+
+
 
 
 
