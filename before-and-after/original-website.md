@@ -1,18 +1,18 @@
 # Original Website
 
 Homepage
-![](images/prettyprairieumc-org-homepage.png)
+![](images/original-website-homepage.png)
 
 Homepage Detail Page
-![](images/prettyprairieumc-org-homepage-detail.png)
+![](images/original-website-homepage-detail.png)
 
 Activities Page
-![](images/prettyprairieumc-org-activities.png)
+![](images/original-website-activities.png)
 
 Blog Homepage
-![](images/prettyprairieumc-org-new-blog.png)
+![](images/original-website-blog.png)
 
 About
-![](images/prettyprairieumc-org-about.png)
+![](images/original-website-about.png)
 
 
