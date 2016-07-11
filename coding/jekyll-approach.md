@@ -27,3 +27,5 @@ Jekyll Site
 * Optional: CNAME file (for custom domain)
 
 ## Staged Deployment
+
+## Administration
