@@ -4,7 +4,7 @@ Squarespace Homepage
 ![](images/original-website-homepage.png)
 
 Self-Hosted Website Homepage
-![](images/self-hosted-website-homepage.png)
+![](images/self-hosted-church-website-homepage.png)
 
 Squarespace Homepage Detail Page
 ![](images/original-website-homepage-detail.png)
@@ -20,15 +20,15 @@ Squarespace Blog Homepage
 ![](images/original-website-blog.png)
 
 Self-Hosted Website Blog Homepage
-![](images/self-hosted-website-blog-homepage.png)
+![](images/self-hosted-church-website-blog-homepage.png)
 
 Squarespace Blog Detail Page
 
 Self-Hosted Website Blog Detail Page
-![](images/self-hosted-website-blog-detail-page.png)
+![](images/self-hosted-website-blog-post-page.png)
 
 Squarespace About Page
 ![](images/original-website-about.png)
 
 Self-Hosted Website About Page
-![](images/self-hosted-website-about-page.png)
+![](images/self-hosted-church-website-about-page.png)
