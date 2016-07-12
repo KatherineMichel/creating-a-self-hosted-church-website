@@ -13,8 +13,8 @@ Table of Contents
    * [Starter Templates](design/starter-templates.md)
    * [Self-Hosted Website](design/self-hosted-website.md)
    * [Before and After](design/before-and-after.md)
-* [Jekyll Approach](coding/jekyll-approach.md)
-* [Django Approach](coding/django-approach.md)
+* [Jekyll Approach](coding-approaches/jekyll-approach.md)
+* [Django Approach](coding-approaches/django-approach.md)
 
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
