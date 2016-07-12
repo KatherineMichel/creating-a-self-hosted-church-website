@@ -26,7 +26,7 @@ Squarespace Blog Post
 ![](images/original-website-blog-post.png)
 
 Self-Hosted Church Website Blog Post
-![](images/self-hosted-church-website-blog-post-page.png)
+![](images/self-hosted-church-website-blog-post.png)
 
 Squarespace About Page
 ![](images/original-website-about.png)
