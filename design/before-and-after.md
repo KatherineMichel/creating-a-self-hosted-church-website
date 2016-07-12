@@ -22,9 +22,10 @@ Squarespace Blog Homepage
 Self-Hosted Church Website Blog Homepage
 ![](images/self-hosted-church-website-blog-homepage.png)
 
-Squarespace Blog Detail Page
+Squarespace Blog Post
+![](images/original-website-blog-post.png)
 
-Self-Hosted Church Website Blog Detail Page
+Self-Hosted Church Website Blog Post
 ![](images/self-hosted-church-website-blog-post-page.png)
 
 Squarespace About Page

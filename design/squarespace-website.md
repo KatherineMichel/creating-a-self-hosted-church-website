@@ -12,6 +12,9 @@ Activities Page
 Blog Homepage
 ![](images/original-website-blog.png)
 
+Blog Post
+![](images/original-website-blog-post.png)
+
 About Page
 ![](images/original-website-about.png)
 
