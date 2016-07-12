@@ -20,6 +20,12 @@ Squarespace Blog Homepage
 ![](images/original-website-blog.png)
 
 Self-Hosted Website Blog Homepage
+![](images/self-hosted-website-blog-homepage.png)
+
+Squarespace Blog Detail Page
+
+Self-Hosted Website Blog Detail Page
+![](images/self-hosted-website-blog-detail-page.png)
 
 Squarespace About Page
 ![](images/original-website-about.png)
