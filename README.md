@@ -15,12 +15,6 @@ Table of Contents
    * [Before and After](design/before-and-after.md)
 * [Jekyll Approach](coding-approaches/jekyll-approach.md)
 * [Django Approach](coding-approaches/django-approach.md)
-
-* [User Testing](user-testing/user-testing.md)
-   * [User Recruiting Process](user-testing/user-recruiting-process.md)
-   * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
-* [User Testing Summary](user-testing/user-testing-summary.md)
-   * [Results Report](results-report.md)
 * [Lessons Learned](lessons-learned.md)
 
 * [Project Management](project-management/project-management.md)
