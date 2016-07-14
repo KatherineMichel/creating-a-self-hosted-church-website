@@ -6,10 +6,11 @@ Squarespace Homepage
 Self-Hosted Church Website Homepage
 ![](images/self-hosted-church-website-homepage.png)
 
-Squarespace Homepage Detail Page
-![](images/original-website-homepage-detail.png)
+Squarespace Homepage Detail Example Page
+![](images/original-website-homepage-detail-example-page.png)
 
-Self-Hosted Chuch Website Homepage Detail Page
+Self-Hosted Chuch Website Homepage Detail Example Page
+![](images/self-hosted-church-website-homepage-detail-example-page.png)
 
 Squarespace Activities Page
 ![](images/original-website-activities.png)

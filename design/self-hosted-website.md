@@ -3,7 +3,8 @@
 Self-Hosted Church Website Homepage
 ![](images/self-hosted-church-website-homepage.png)
 
-Self-Hosted Chuch Website Homepage Detail Page
+Self-Hosted Chuch Website Homepage Detail Example Page
+![](images/self-hosted-church-website-homepage-detail-example-page.png)
 
 Self-Hosted Church Website Activities Page
 

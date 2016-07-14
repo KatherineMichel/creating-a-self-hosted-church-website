@@ -3,8 +3,8 @@
 Homepage
 ![](images/original-website-homepage.png)
 
-Homepage Detail Page
-![](images/original-website-homepage-detail.png)
+Squarespace Homepage Detail Example Page
+![](images/original-website-homepage-detail-example-page.png)
 
 Activities Page
 ![](images/original-website-activities.png)
