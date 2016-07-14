@@ -5,7 +5,7 @@ Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
 
 ## Background
 
-[Jekyll](https://jekyllrb.com) is a web development framework invented at GitHub, the most popular place in the world for hosting open-source code. Jekyll sites can be hosted for free at GitHub, and can use a custom domain. Jekyll is very popular because it combines powerful web development options with free, easy deployment. 
+[Jekyll](https://jekyllrb.com) is a static web development framework created at [GitHub](https://github.com), the most popular place in the world for hosting open-source code. Jekyll sites can be hosted for free at GitHub, and can use a custom domain. Jekyll is very popular because it combines powerful web development features with free, easy deployment. However, Jekyll is a framework for static sites (as opposed to dynamic) and does not offer all traditional web development functionality. Whether it is right for a specific project needs to be evaluated on a case-by-case basis. 
  
 ## Cost Comparison
 
@@ -14,11 +14,11 @@ Squarespace
 * Cost of labor, if any
 
 Jekyll Site
-* Free to host
+* [Free to host on GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 * Cost of domain (~$10)
 * Cost of labor, if any
 
-## Tools Needed
+## Tools Needed for This Project
 
 * [Jekyll](https://jekyllrb.com)
 * [Start Bookstrap Unstyled Starter Templates](http://startbootstrap.com/template-categories/unstyled)
