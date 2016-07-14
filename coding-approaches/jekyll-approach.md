@@ -35,3 +35,21 @@ In a mission critical, live production environment, a website may be viewed loca
 Any person making updates to the site will need to have a personal GitHub account. The Jekyll site can be hosted through a personal GitHub account or through an organizational account. If the site is hosted through a personal GitHub account and someone else makes a contribution to the site (a pull request), the account owner will review the contribution before merging it with the code-base, or rejecting it. If the site is hosted through an organizational account and a non-member (of the organization) makes a a pull request, a member of the organization account who has special admin privileges will review the contribution before merging or rejecting it. Code contributions are not likely to occur on a small project. 
 
 It is expected that the part of this website that would be updated most often would be the blog. Updating the blog is as simple as creating a word document, writing some text and saving it. Here are the steps: 
+
+Click on the _blog folder to open it
+
+Copy the contents of the blog post template
+
+Click the "Create new file" button in the upper right
+
+When the file opens, paste the contents of the blog post template into the new file
+
+In the "Name your file" box, type the date and blog post title with hyphens (exclude other punctuation such as apostrophes) followed by .markdown
+
+Replace the generic "Front matter," with the information for this blog post (for example: title)
+
+Under the "Front matter," type or copy and paste your blog post text
+
+When you are happy with your post, scroll to the bottom of the page and click the green "Commit new file" button
+
+The post will automatically populate on the blog homepage with a link to a blog post page
