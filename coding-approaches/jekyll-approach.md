@@ -25,9 +25,12 @@ Jekyll Site
 * [Start Bookstrap Unstyled Starter Templates](http://startbootstrap.com/template-categories/unstyled)
 * GitHub personal or organizational account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
+* Optional: [Disqus](https://disqus.com) (for blog post comments)
 
 ## Staged Deployment
 
-A Jekyll site hosted through GitHub gh-pages does not offer an obvious staged deployment option. It is assumed that a site made using the Jekyll approach in this GitBook would be simple/low traffic enough that updates could be verified locally and pushed directly to gh-pages. 
+In a mission critical live production environment, a website may be viewed locally, before code changes are pushed to a web host and viewed on a staging site that is virtually the same as the production site. If the result on the staging site is satisfactory, the change may pushed to the live site where it will be seen by users. A Jekyll site hosted through GitHub gh-pages does not offer an obvious staged deployment option. It is assumed that a site made using the approach in this GitBook will be simple/low traffic enough that updates could be verified locally and pushed directly to gh-pages. 
 
 ## Administration
+
+It is expected that the part of this website that would be updated most often would be the blog. 
