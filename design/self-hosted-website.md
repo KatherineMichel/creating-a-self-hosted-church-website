@@ -1,18 +1,18 @@
 # Self-Hosted Website
 
-Self-Hosted Church Website Homepage
+Self-hosted church website homepage
 ![](images/self-hosted-church-website-homepage.png)
 
-Self-Hosted Chuch Website Homepage Detail Example Page
+Self-hosted chuch website homepage detail example page
 ![](images/self-hosted-church-website-homepage-detail-example-page.png)
 
-Self-Hosted Church Website Activities Page
+Self-hosted church website activities page
 
-Self-Hosted Church Website Blog Homepage
+Self-hosted church website blog homepage
 ![](images/self-hosted-church-website-blog-homepage.png)
 
-Self-Hosted Church Website Blog Post
+Self-hosted church website blog post
 ![](images/self-hosted-church-website-blog-post.png)
 
-Self-Hosted Church Website About Page
+Self-hosted church website about page
 ![](images/self-hosted-church-website-about-page.png)
