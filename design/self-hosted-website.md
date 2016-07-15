@@ -7,6 +7,7 @@ Self-hosted chuch website homepage detail example page
 ![](images/self-hosted-church-website-homepage-detail-example-page.png)
 
 Self-hosted church website activities page
+![](images/self-hosted-church-website-activities-page.png)
 
 Self-hosted church website blog homepage
 ![](images/self-hosted-church-website-blog-homepage.png)
