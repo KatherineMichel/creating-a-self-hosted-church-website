@@ -13,7 +13,7 @@ Create a GitHub Organization
 ![](images/pretty-prairie-united-methodist-church-create-an-organization.png)
 
 Invite Organization Members
-![](images/pretty-prairie-united-methodist-church-organization-invite-organization-members.png)
+![](images/pretty-prairie-united-methodist-church-invite-organization-members.png)
 
 Update the Settings with Proper Name and Profile Picture
 ![](images/pretty-prairie-united-methodist-church-settings.png)
