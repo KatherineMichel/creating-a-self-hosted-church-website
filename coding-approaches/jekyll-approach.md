@@ -42,6 +42,10 @@ Copy the contents of the blog post template
 
 Click the "Create new file" button in the upper right
 
+New File
+
+creating-a-new-file.png
+
 When the file opens, paste the contents of the blog post template into the new file
 
 In the "Name your file" box, type the date and blog post title with hyphens (exclude other punctuation such as apostrophes) followed by .markdown
