@@ -6,7 +6,7 @@ A more advanced, but cheaper option exists: self-hosting. In this GitBook, I wil
 
 Using one design, I will demonstrate two "back-end" approaches:
 * A Jekyll site hosted on GitHub with updates made directly through GitHub as a dashboard
-* A Django site with code stored on GitHub, but deployed via Heroku, with updates made through an Admin dashboard
+* A Django site with code stored on GitHub, but deployed via Heroku, with updates made through an admin dashboard
 
 
 
