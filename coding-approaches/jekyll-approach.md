@@ -59,8 +59,11 @@ For a non-root gh-pages repo (does not end in github.io) choose the gh-pages bra
 
 Click on the _posts folder to open it
 
-Copy the contents of the blog post template by open the file, copying and clicking "Cancel" or clicking raw
+Click on the "post-template.markdown" file to open it
 ![](images/blog-posts.png)
+
+Copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", (Control-C), then back button
+![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
 
@@ -68,6 +71,8 @@ New File
 ![](images/blog-post-new-file.png)
 
 When the file opens, paste the contents of the blog post template into the new file
+![](images/paste-into-new-file.png)
+
 
 In the "Name your file" box, type the date and blog post title with hyphens (exclude other punctuation such as apostrophes) followed by .markdown
 
