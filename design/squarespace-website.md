@@ -3,19 +3,19 @@
 Homepage
 ![](images/original-website-homepage.png)
 
-Squarespace Homepage Detail Example Page
+Squarespace homepage detail example page
 ![](images/original-website-homepage-detail-example-page.png)
 
-Activities Page
+Activities page
 ![](images/original-website-activities.png)
 
-Blog Homepage
+Blog homepage
 ![](images/original-website-blog.png)
 
-Blog Post
+Blog post
 ![](images/original-website-blog-post.png)
 
-About Page
+About page
 ![](images/original-website-about.png)
 
 
