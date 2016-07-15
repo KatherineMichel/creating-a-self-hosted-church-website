@@ -11,7 +11,7 @@ The templates I will be using will be:
 * Blog Post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
 See the following sections for screenshots of: 
-* [Squarespace Website](design/squarespace-website.md)
-* [Starter Templates](design/starter-templates.md)
-* [Self-Hosted Website](design/self-hosted-website.md)
-* [Before and After](design/before-and-after.md)
+* [Squarespace Website](squarespace-website.md)
+* [Starter Templates](starter-templates.md)
+* [Self-Hosted Website](self-hosted-website.md)
+* [Before and After](before-and-after.md)
