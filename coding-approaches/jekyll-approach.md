@@ -53,16 +53,18 @@ Though GitHub could looking intimidating at first, it can actually be simple to 
 Here are the steps for a person who is an account owner or organization member: 
 
 In GitHub, navigate to the website repo and double click the name
+![](images/self-hosted-church-website-jekyll.png)
 
 For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch
 ![](images/gh-pages.png)
 
 Click on the _posts folder to open it
+![](images/posts.png)
 
 Click on the "post-template.markdown" file to open it
 ![](images/blog-posts.png)
 
-Copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", (Control-C), then back button
+Select all, then copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", select all, (Control-C), then back button
 ![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
