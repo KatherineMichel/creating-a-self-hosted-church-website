@@ -5,7 +5,7 @@ Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
 
 ## Background
 
-[Jekyll](https://jekyllrb.com) is a web development framework created at [GitHub](https://github.com), the most popular place in the world for hosting open-source code. Jekyll sites can be hosted for free at GitHub and many individuals and organizations on GitHub use it as a convenient way to introduce themselves. Jekyll is user friendly, combining powerful web development features with free, easy development. However, Jekyll is a static framework that does not offer all traditional web development functionality. Whether it is right for a specific project needs to be evaluated on a case-by-case basis. 
+[Jekyll](https://jekyllrb.com) is a web development framework created at [GitHub](https://github.com), the most popular place in the world for hosting open-source code. Jekyll sites can be hosted for free at GitHub and many individuals and organizations on GitHub use it as a convenient way to introduce themselves. Jekyll is user friendly, combining powerful web development features with free, easy deployment. However, Jekyll is a static framework that does not offer all traditional web development functionality. Whether it is right for a specific project needs to be evaluated on a case-by-case basis. 
  
 ## Jekyll Pros and Cons
 
