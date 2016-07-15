@@ -1,6 +1,6 @@
 # Creating a Self-Hosted Church Website
 
-A GitBook Documenting an Agile Sprint
+A GitBook Documenting My Experience of Creating a Self-Hosted Church Website
 
 ![](cover.jpg)
 
