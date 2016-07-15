@@ -36,9 +36,13 @@ Any person making updates to the site will need to have a personal GitHub accoun
 
 It is expected that the part of this website that would be updated most often would be the blog. Updating the blog is as simple as creating a word document, writing some text and saving it. Here are the steps: 
 
+In GitHub, navigate to the website repo and double click the name
+
+For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch
+
 Click on the _blog folder to open it
 
-Copy the contents of the blog post template
+Copy the contents of the blog post template by open the file, copying and clicking "Cancel" or clicking raw
 
 Click the "Create new file" button in the upper right
 
@@ -55,4 +59,4 @@ Under the "Front matter," type or copy and paste your blog post text
 
 When you are happy with your post, scroll to the bottom of the page and click the green "Commit new file" button
 
-The post will automatically populate on the blog homepage with a link to a blog post page
+The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
