@@ -68,6 +68,7 @@ Select all, copy the contents of the post template (Control-C), then click "Canc
 ![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
+![](images/create-new-file.png)
 
 A new file will open
 ![](images/blog-post-new-file.png)
