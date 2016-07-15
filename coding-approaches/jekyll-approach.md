@@ -64,7 +64,7 @@ Click on the _posts folder to open it
 Click on the "post-template.markdown" file to open it
 ![](images/blog-posts.png)
 
-Select all, then copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", select all, (Control-C), then back button
+Select all, copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", select all, (Control-C), then back button
 ![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
