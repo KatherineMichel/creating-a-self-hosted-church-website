@@ -4,12 +4,12 @@
 
 Though GitHub could looking intimidating at first, it can actually be simple to use. GitHub can be used in two primary ways: through a personal account or an organizational account with members who have special privileges. A church could create an organizational account where a few people could access website code to make simple updates, such as publishing a new blog post. This will be further explained later in this GitBook as part of the Jekyll approach.
 
-Below are screenshots showing what a hypothetical church GitHub organization would look like and the setup process. 
+Below are screenshots showing what a church GitHub organization would look like and the setup process. 
 
-Church Organization Account with Me as Owner
+Organization Account with Me as Owner
 ![](images/pretty-prairie-united-methodist-church-organization-account.png)
 
-Create a GitHub Organization
+Create an Organization
 ![](images/pretty-prairie-united-methodist-church-create-an-organization.png)
 
 Invite Organization Members
