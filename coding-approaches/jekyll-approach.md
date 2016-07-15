@@ -45,9 +45,9 @@ In a mission critical, live production environment, a website may be updated and
 
 ## Administration
 
-Any person making updates to the site will need to have a personal GitHub account. If the code-base is hosted in a GitHub organization account, any person who needs to have website admin privileges will need to be a member of the organization account. Anyone can submit a contribution to a code-base (this is called a pull request), but the account owner or an organization member will need to review the contribution to decide whether to merge it with the code-base or reject it. Unsolicited code contributions are not likely to occur on a small project. 
+GitHub can be used in two primary ways: through a personal account or an organization account. Any person making updates to the site will need to have a personal GitHub account. If the code-base is hosted in a GitHub organization account, any person who needs to have website admin privileges will need to be a member of the organization account. Anyone can submit a contribution to a code-base (this is called a pull request), but the account owner or an organization member will need to review the contribution to decide whether to merge it with the code-base or reject it. Unsolicited code contributions are not likely to occur on a small project. 
 
-It is expected that the majority of the website will remain largely unchanged. Changes made by non-developers will be isolated. For example, a part of the website that would be updated often would be the blog. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
+Though GitHub could looking intimidating at first, it can actually be simple to use. It is expected that the majority of the website will remain largely unchanged. Changes made by non-developers will be isolated. For example, a part of the website that would be updated often would be the blog. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
 
 Here are the steps for a person who is an account owner or organization member: 
 
