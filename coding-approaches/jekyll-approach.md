@@ -55,10 +55,12 @@ Here are the steps for a person who is an account owner or organization member:
 In GitHub, navigate to the website repo and double click the name
 
 For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch
+![](images/gh-pages.png)
 
-Click on the _blog folder to open it
+Click on the _posts folder to open it
 
 Copy the contents of the blog post template by open the file, copying and clicking "Cancel" or clicking raw
+![](images/blog-posts.png)
 
 Click the "Create new file" button in the upper right
 
