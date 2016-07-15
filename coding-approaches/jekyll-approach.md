@@ -10,14 +10,15 @@ Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
 ## Jekyll Pros and Cons
 
 Pros
-* Can be hosted for free at GitHub
-* Many Jekyll code-bases on GitHub to learn from
+* Can be hosted for free at GitHub (can also be hosted elsewhere, but probably not for free)
+* Many Jekyll code-bases exist on GitHub to learn from
 * Fairly easy to deploy
 * Can use a custom domain
 
 Cons
 * Static framework (as opposted to dynamic)
 * Limited functionality
+* Limited staged deployment
 
 ## Cost Comparison
 
@@ -26,7 +27,7 @@ Squarespace website
 * Cost of labor, if any
 
 Jekyll Site
-* [Free to host on GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
+* [Can be hosted for free at GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 * Cost of domain (~$10)
 * Cost of labor, if any
 
@@ -34,13 +35,13 @@ Jekyll Site
 
 * [Jekyll](https://jekyllrb.com)
 * [Start Bookstrap Unstyled Starter Templates](http://startbootstrap.com/template-categories/unstyled)
-* [GitHub](https://github.com) personal or organizational account, in order to use GitHub gh-pages
+* [GitHub](https://github.com) personal or organization account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
 * Optional: [Disqus](https://disqus.com) (for blog post comments)
 
 ## Staged Deployment
 
-In a mission critical, live production environment, a website may be updated and viewed locally (on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub in the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
+In a mission critical, live production environment, a website may be updated and viewed locally (on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub via the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
 
 ## Administration
 
