@@ -76,14 +76,16 @@ A new file will open
 Paste the contents of the blog post template into the new file
 ![](images/paste-into-new-file.png)
 
+In the "Name your file" box, type the yyyy-mm-dd-blog-post-title.markdown in exactly this format (exclude other punctuation such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: title); Under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
+![](images/new-blog-post.png)
 
-In the "Name your file" box, type the date and blog post title with hyphens (exclude other punctuation such as apostrophes) followed by .markdown
-
-Replace the generic "Front matter," with the information for this blog post (for example: title)
-
-Under the "Front matter," type or copy and paste your blog post text
-
-When you are happy with your post, scroll to the bottom of the page and click the green "Commit new file" button
+When you are happy with your post, scroll to the bottom of the page. Optionally, leave a commit message. Click the green "Commit new file" button
 ![](images/commit-new-file.png)
 
 The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
+
+Example Post on Blog Homepage
+![](images/blog-post-example-homepage.png)
+
+Blog Post Page
+![](images/blog-post-example.png)
