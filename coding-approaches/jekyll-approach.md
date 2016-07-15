@@ -43,8 +43,7 @@ Copy the contents of the blog post template
 Click the "Create new file" button in the upper right
 
 New File
-
-creating-a-new-file.png
+![](images/blog-post-new-file.png)
 
 When the file opens, paste the contents of the blog post template into the new file
 
