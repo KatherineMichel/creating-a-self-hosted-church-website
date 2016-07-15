@@ -84,5 +84,6 @@ Replace the generic "Front matter," with the information for this blog post (for
 Under the "Front matter," type or copy and paste your blog post text
 
 When you are happy with your post, scroll to the bottom of the page and click the green "Commit new file" button
+![](images/commit-new-file.png)
 
 The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
