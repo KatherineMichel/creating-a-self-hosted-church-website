@@ -6,14 +6,17 @@ Though GitHub could looking intimidating at first, it can actually be simple to 
 
 Below are screenshots showing what a hypothetical church GitHub organization would look like and the setup process. 
 
-Hypothetical Church Organization with Me as Owner
-![](images/a-united-methodist-church-organization.png)
+Church Organization Account with Me as Owner
+![](images/pretty-prairie-united-methodist-church-organization-account.png)
 
-Creating a GitHub Organization
-![](images/a-united-methodist-church-create-an-organization.png)
+Create a GitHub Organization
+![](images/pretty-prairie-united-methodist-church-create-an-organization.png)
 
-Inviting Members
-![](images/a-united-methodist-church-organization-invite-members.png)
+Invite Organization Members
+![](images/pretty-prairie-united-methodist-church-organization-invite-organization-members.png)
 
-Updating the Settings with Proper Name and Profile Picture
-![](images/a-united-methodist-church-settings.png)
+Update the Settings with Proper Name and Profile Picture
+![](images/pretty-prairie-united-methodist-church-settings.png)
+
+Create a Team
+![](images/pretty-prairie-united-methodist-church-create-a-new-team.png)
