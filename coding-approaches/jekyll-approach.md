@@ -69,10 +69,10 @@ Select all, then copy the contents of the post template (Control-C), then click 
 
 Click the "Create new file" button in the upper right
 
-New File
+A new file will open
 ![](images/blog-post-new-file.png)
 
-When the file opens, paste the contents of the blog post template into the new file
+Paste the contents of the blog post template into the new file
 ![](images/paste-into-new-file.png)
 
 
