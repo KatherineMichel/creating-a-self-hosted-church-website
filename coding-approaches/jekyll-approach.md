@@ -1,6 +1,6 @@
 # Jekyll Approach
 
-Finished self-hosted [website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
+Finished self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
 
 ## Background
@@ -35,14 +35,14 @@ Jekyll Site
 ## Tools Needed for This Project
 
 * [Jekyll](https://jekyllrb.com)
-* [Start Bookstrap Unstyled Starter Templates](http://startbootstrap.com/template-categories/unstyled)
+* [Start Bookstrap unstyled starter templates](http://startbootstrap.com/template-categories/unstyled)
 * [GitHub](https://github.com) personal or organization account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
 * Optional: [Disqus](https://disqus.com) (for blog post comments)
 
 ## Staged Deployment
 
-In a mission critical, live production environment, a website may be updated and viewed locally (on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub via the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
+In a mission critical, live production environment, a website may be updated and viewed locally (offline, on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub via the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
 
 ## Administration
 
@@ -50,21 +50,21 @@ GitHub can be used in two primary ways: through a personal account or an organiz
 
 Though GitHub could looking intimidating at first, it can actually be simple to use. It is expected that the majority of the website will remain largely unchanged. Changes made by non-developers will be isolated. For example, a part of the website that would be updated often would be the blog. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
 
-Here are the steps for a person who is an account owner or organization member: 
+Here are the steps for a person who is an account owner or organization member to make a new blog post in Jekyll: 
 
-In GitHub, navigate to the website repo and double click the name
+In GitHub, navigate to the website repo and double click the name to open the repo
 ![](images/self-hosted-church-website-jekyll.png)
 
-For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch
+For a non-root gh-pages repo (does not end in github.io) choose the gh-pages branch (the account website root will be in its own repo, with a name ending in github.io and will be the master branch)
 ![](images/gh-pages.png)
 
 Click on the _posts folder to open it
 ![](images/posts.png)
 
-Click on the "post-template.markdown" file to open it
+Click on the "yyyy-mm-dd-post-template.markdown" file to open it
 ![](images/blog-posts.png)
 
-Select all, copy the contents of the post template (Control-C), then click "Cancel"; Alternatively, click "Raw", select all, (Control-C), then back button
+Select all, copy the contents of the post template (control-c, or command-c on a Mac), then click "Cancel" to navigate out of the file without making any change; Alternatively, click "Raw", select all, (control-c, or command-c on a Mac), then back button
 ![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
@@ -76,7 +76,7 @@ A new file will open
 Paste the contents of the blog post template into the new file
 ![](images/paste-into-new-file.png)
 
-In the "Name your file" box, type the yyyy-mm-dd-blog-post-title.markdown in exactly this format (exclude other punctuation such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: title); Under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
+In the "Name your file" box, using the exact format (yyyy-mm-dd-blog-post-title.markdown), input the year, month, day, then blog post title, separated by hyphens (exclude other punctuation from the title such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: change Title to the real title); Under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
 ![](images/new-blog-post.png)
 
 When you are happy with your post, scroll to the bottom of the page. Optionally, leave a commit message. Click the green "Commit new file" button
@@ -84,8 +84,8 @@ When you are happy with your post, scroll to the bottom of the page. Optionally,
 
 The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
 
-Example Post on Blog Homepage
+Example post on blog homepage
 ![](images/blog-post-example-homepage.png)
 
-Blog Post Page
+Blog post page
 ![](images/blog-post-example.png)
