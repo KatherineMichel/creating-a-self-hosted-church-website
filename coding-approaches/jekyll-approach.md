@@ -14,6 +14,7 @@ Pros
 * Many Jekyll code-bases exist on GitHub to learn from
 * Fairly easy to deploy
 * Can use a custom domain
+* Automated blog post creation out of the box
 
 Cons
 * Static framework (as opposted to dynamic)
@@ -40,15 +41,9 @@ Jekyll Site
 * Optional: CNAME file (for custom domain)
 * Optional: [Disqus](https://disqus.com) (for blog post comments)
 
-## Staged Deployment
-
-In a mission critical, live production environment, a website may be updated and viewed locally (offline, on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub via the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
-
 ## Administration
 
-GitHub can be used in two primary ways: through a personal account or an organization account. Any person making updates to the site will need to have a personal GitHub account. If the code-base is hosted in a GitHub organization account, any person who needs to have website admin privileges will need to be a member of the organization account. Anyone can submit a contribution to a code-base (this is called a pull request), but the account owner or an organization member will need to review the contribution to decide whether to merge it with the code-base or reject it. Unsolicited code contributions are not likely to occur on a small project. 
-
-Though GitHub could looking intimidating at first, it can actually be simple to use. It is expected that the majority of the website will remain largely unchanged. Changes made by non-developers will be isolated. For example, a part of the website that would be updated often would be the blog. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
+Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges. For the website described in this GitBook, it is expected that the majority of the code-based will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process. For example, an admin might occassionally add a new blog post. Though GitHub could looking intimidating at first, it can actually be simple to use. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
 
 Here are the steps for a person who is an account owner or organization member to make a new blog post in Jekyll: 
 
@@ -89,3 +84,7 @@ Example post on blog homepage
 
 Blog post page
 ![](images/blog-post-example.png)
+
+## Staged Deployment
+
+In a mission critical, live production environment, a website may be updated and viewed locally (offline, on an individual computer), before the new code is pushed to the web host and viewed on a live staging site that is virtually the same as the live production site. If the result on the staging site is satisfactory, the change may be pushed to the live site where it will be seen by users. It is assumed that a website made using the approach given in this GitBook will be simple/low traffic enough that major updates could be verified locally and pushed directly to gh-pages. Minor changes, such as adding a blog post, could be completedly directly in GitHub via the browser. However, it is possible that a staging site could be created by making a staging branch, and merging the staging branch with the gh-pages branch. 
