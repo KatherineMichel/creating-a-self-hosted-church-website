@@ -1,21 +1,21 @@
 # Squarespace Website
 
-Homepage
+[Homepage](http://www.prettyprairieumc.org)
 ![](images/original-website-homepage.png)
 
-Squarespace homepage detail example page
+[Homepage detail example page](http://www.prettyprairieumc.org/#/welcome)
 ![](images/original-website-homepage-detail-example-page.png)
 
-Activities page
+[Activities page](http://www.prettyprairieumc.org/activities)
 ![](images/original-website-activities.png)
 
-Blog homepage
+[Blog homepage](http://www.prettyprairieumc.org/new-blog)
 ![](images/original-website-blog.png)
 
-Blog post
+[Blog post](http://www.prettyprairieumc.org/new-blog/2016/7/12/pastors-welcome)
 ![](images/original-website-blog-post.png)
 
-About page
+[About us page](http://www.prettyprairieumc.org/about)
 ![](images/original-website-about.png)
 
 
