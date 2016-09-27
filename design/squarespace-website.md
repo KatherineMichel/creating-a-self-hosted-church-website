@@ -15,7 +15,7 @@ Squarespace [Blog homepage](http://www.prettyprairieumc.org/new-blog)
 Squarespace [blog post](http://www.prettyprairieumc.org/new-blog/2016/7/12/pastors-welcome)
 ![](images/original-website-blog-post.png)
 
-Squarespace [About Us page](http://www.prettyprairieumc.org/about)
+Squarespace [About page](http://www.prettyprairieumc.org/about)
 ![](images/original-website-about.png)
 
 
