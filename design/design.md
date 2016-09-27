@@ -7,7 +7,7 @@ To create the design, I will be using a very popular and useful web development 
 The templates I will be using will be: 
 * Homepage: [Start Bootstrap 3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio)
 * Homepage detail page and about page: [Start Bootstrap Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item)
-* Activity page: A combination of pieces from other templates
+* Activity page: a combination of pieces from other templates
 * Blog homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
 * Blog post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
