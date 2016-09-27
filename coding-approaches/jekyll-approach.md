@@ -28,7 +28,7 @@ Squarespace website:
 * $144/year basic, custom domain included
 * Cost of labor, if any
 
-Jekyll Site: 
+Jekyll website: 
 * [Can be hosted for free at GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 * Cost of domain (~$10)
 * Cost of labor, if any
