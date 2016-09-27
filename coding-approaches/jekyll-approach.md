@@ -9,14 +9,14 @@ Compare to the original [Squarespace website](http://www.prettyprairieumc.org)
  
 ## Jekyll Pros and Cons
 
-Pros
+Pros:
 * Can be hosted for free at GitHub (can also be hosted elsewhere, but probably not for free)
 * Many Jekyll code-bases exist on GitHub to learn from
 * Fairly easy to deploy
 * Can use a custom domain
 * Automated blog post creation out of the box
 
-Cons
+Cons:
 * Static framework (as opposted to dynamic)
 * Limited functionality
 * Example websites tend to be simple, personal blogs, not professional quality websites
@@ -43,7 +43,7 @@ Jekyll Site
 
 ## Administration
 
-Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges. For the website described in this GitBook, it is expected that the majority of the code-based will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process. For example, an admin might occassionally add a new blog post. Though GitHub could looking intimidating at first, it can actually be simple to use. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
+Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process. For example, an admin might occassionally add a new blog post. Though GitHub could looking intimidating at first, it can actually be simple to use. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
 
 Here are the steps for a person who is an account owner or organization member to make a new blog post in Jekyll: 
 
@@ -59,7 +59,7 @@ Click on the _posts folder to open it
 Click on the "yyyy-mm-dd-post-template.markdown" file to open it
 ![](images/blog-posts.png)
 
-Select all, copy the contents of the post template (control-c, or command-c on a Mac), then click "Cancel" to navigate out of the file without making any change; Alternatively, click "Raw", select all, (control-c, or command-c on a Mac), then back button
+Select all, copy the contents of the post template (control-c, or command-c on a Mac), then click "Cancel" to navigate out of the file without making any change; alternatively, click "Raw", select all, (control-c, or command-c on a Mac), then back button
 ![](images/copy-post-template.png)
 
 Click the "Create new file" button in the upper right
@@ -71,7 +71,7 @@ A new file will open
 Paste the contents of the blog post template into the new file
 ![](images/paste-into-new-file.png)
 
-In the "Name your file" box, using the exact format (yyyy-mm-dd-blog-post-title.markdown), input the year, month, day, then blog post title, separated by hyphens (exclude other punctuation from the title such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: change Title to the real title); Under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
+In the "Name your file" box, using the exact format (yyyy-mm-dd-blog-post-title.markdown), input the year, month, day, then blog post title, separated by hyphens (exclude other punctuation from the title such as apostrophes). In the body of the file, replace the generic "Front matter" with the information for this blog post (for example: change Title to the real title); under the "Front matter," type or copy and paste your blog post text. If you do compose your post directly in the file, keep in mind that you may want to copy and save the body before clicking "Commit new file" so that if the browser has a connection error, your work is not lost.
 ![](images/new-blog-post.png)
 
 When you are happy with your post, scroll to the bottom of the page. Optionally, leave a commit message. Click the green "Commit new file" button
