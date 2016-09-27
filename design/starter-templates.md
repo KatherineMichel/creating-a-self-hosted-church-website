@@ -3,7 +3,7 @@
 Homepage: [Start Bootstrap 3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio)
 ![](images/startbootstrap-3-col-portfolio.png)
 
-Homepage detail page and About Us page: [Start Bootstrap Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item)
+Homepage detail page and About page: [Start Bootstrap Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item)
 ![](images/startbootstrap-portfolio-item.png)
 
 Blog homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
