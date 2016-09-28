@@ -16,7 +16,7 @@ Before: Squarespace [Activities page](http://www.prettyprairieumc.org/activities
 ![](images/original-website-activities.png)
 
 After: self-hosted church website [Activities page](https://katherinemichel.github.io/self-hosted-church-website-jekyll/activities)
-![](images/self-hosted-church-website-activities-page.png)
+![](images/self-hosted-church-website-activities-page.jpg)
 
 Before: Squarespace [Blog homepage](http://www.prettyprairieumc.org/new-blog)
 ![](images/original-website-blog.png)
@@ -34,4 +34,4 @@ Before: Squarespace [About page](http://www.prettyprairieumc.org/about)
 ![](images/original-website-about.png)
 
 After: self-hosted church website [About page](https://katherinemichel.github.io/self-hosted-church-website-jekyll/about)
-![](images/self-hosted-church-website-about-page.png)
+![](images/self-hosted-church-website-about-page.jpg)
