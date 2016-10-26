@@ -9,6 +9,7 @@ Table of Contents
 * [Introduction](introduction.md)
 * [About Jekyll](jekyll/about-jekyll.md)
 * [Design](design/design.md)
+* [Comparison Screenshots](design/comparison-screenshots.md)
    * [Squarespace Website](design/squarespace-website.md)
    * [Starter Templates](design/starter-templates.md)
    * [Self-Hosted Website](design/self-hosted-website.md)
