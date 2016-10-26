@@ -7,7 +7,7 @@ A GitBook Documenting My Experience of Creating a Self-Hosted Church Website
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
-* [About Jekyll](jekyll/about-jekyll.md)
+* [Getting Started](getting-started.md)
 * [Design](design/design.md)
 * [Comparison Screenshots](design/comparison-screenshots.md)
    * [Squarespace Website](design/squarespace-website.md)
