@@ -4,8 +4,7 @@ In my GitBook [Church Website and Marketing on a Budget](http://katherinemichel.
 
 A more advanced, but cheaper option exists: self-hosting. In this GitBook, I will show how, with a bit of expert knowledge, a church can self-host a website comparable to the Squarespace website, but for only the cost of the custom domain (~$10). 
 
-I will demonstrate one approach:
-* A [Jekyll](https://jekyllrb.com) site hosted on [GitHub](https://github.com) with updates made directly through GitHub as a dashboard
+I will demonstrate one approach: a [Jekyll](https://jekyllrb.com) site hosted on [GitHub](https://github.com) with updates made directly through GitHub as a dashboard
 
 
 
