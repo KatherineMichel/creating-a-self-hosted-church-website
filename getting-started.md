@@ -32,6 +32,7 @@ Jekyll website:
 
 ## Tools Needed for This Project
 
+* [Git](https://help.github.com/articles/set-up-git) set up on your computer (you will need to use git for version control in conjunction with GitHub)
 * [Jekyll](https://jekyllrb.com)
 * [Start Bookstrap unstyled starter templates](http://startbootstrap.com/template-categories/unstyled)
 * [GitHub](https://github.com) personal or organization account, in order to use GitHub gh-pages
