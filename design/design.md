@@ -9,8 +9,4 @@ The templates I will be using will be:
 * Blog homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
 * Blog post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
-See the following sections for screenshots of: 
-* [Squarespace Website](squarespace-website.md)
-* [Starter Templates](starter-templates.md)
-* [Self-Hosted Website](self-hosted-website.md)
-* [Before and After](before-and-after.md)
+
