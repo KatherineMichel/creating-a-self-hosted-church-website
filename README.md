@@ -13,7 +13,6 @@ Table of Contents
    * [Self-Hosted Website](design/self-hosted-website.md)
    * [Before and After](design/before-and-after.md)
 * [Jekyll Approach](coding-approaches/jekyll-approach.md)
-* [Django Approach](coding-approaches/django-approach.md)
 * [Open-Source GitHub Organization](open-source-github-organization.md)
 * [Lessons Learned](lessons-learned.md)
 
