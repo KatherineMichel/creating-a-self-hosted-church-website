@@ -11,4 +11,5 @@ The templates I will be using will be:
 * Blog homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
 * Blog post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
+## Development
 
