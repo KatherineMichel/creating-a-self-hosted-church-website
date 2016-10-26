@@ -14,7 +14,7 @@ Pros:
 Cons:
 * Static framework (as opposted to dynamic)
 * Limited functionality
-* Example websites tend to be simple, personal blogs, not professional quality websites
+* Example websites tend to be simple, personal blogs, not complex, full-featured websites
 * Limited staged deployment
 
 ## Cost Comparison
@@ -35,3 +35,4 @@ Jekyll website:
 * [GitHub](https://github.com) personal or organization account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
 * Optional: [Disqus](https://disqus.com) (for blog post comments)
+* Optional: [Jekyll plugins](http://www.jekyll-plugins.com) of interest
