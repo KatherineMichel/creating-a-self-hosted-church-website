@@ -6,6 +6,8 @@ Though GitHub could looking intimidating at first, it can actually be simple to 
 
 Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges.   
 
+## Process
+
 Here are the steps for a person who is an account owner or organization member to make a new blog post in Jekyll: 
 
 In GitHub, navigate to the website repo and double click the name to open the repo
