@@ -7,7 +7,7 @@
 ## Jekyll Pros and Cons
 
 Pros:
-* Can be hosted for free at GitHub (can also be hosted elsewhere, but probably not for free)
+* Can be hosted for free at GitHub (can also be hosted elsewhere, but possibly not for free)
 * Many Jekyll code-bases exist on GitHub to learn from
 * Fairly easy to deploy
 * Can use a custom domain
