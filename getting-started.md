@@ -33,7 +33,7 @@ Jekyll website:
 ## Tools Needed for This Project
 
 * [Git](https://help.github.com/articles/set-up-git) set up on your computer (you will need to use git for version control in conjunction with GitHub)
-* [Jekyll](https://jekyllrb.com)
+* [Ruby](https://www.ruby-lang.org) and [Jekyll](https://jekyllrb.com) (GitHub provides a [detailed tutorial](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll))
 * [Start Bookstrap unstyled starter templates](http://startbootstrap.com/template-categories/unstyled)
 * [GitHub](https://github.com) personal or organization account, in order to use GitHub gh-pages
 * Optional: CNAME file (for custom domain)
