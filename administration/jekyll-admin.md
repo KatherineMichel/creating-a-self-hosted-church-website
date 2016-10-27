@@ -1,8 +1,10 @@
 # Jekyll Admin
 
-## Administration
+Though GitHub could looking intimidating at first, it can actually be simple to use. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
 
-Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process. For example, an admin might occassionally add a new blog post. Though GitHub could looking intimidating at first, it can actually be simple to use. Updating the blog is not any more difficult than creating a word document, writing some text and saving it. 
+## Getting Started
+
+Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process. For example, an admin might occassionally add a new blog post. 
 
 Here are the steps for a person who is an account owner or organization member to make a new blog post in Jekyll: 
 
