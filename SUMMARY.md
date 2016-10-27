@@ -10,7 +10,7 @@ Table of Contents
    * [Starter Templates](design-and-development/starter-templates.md)
    * [Self-Hosted Website](design-and-development/self-hosted-website.md)
    * [Before and After](design-and-development/before-and-after.md)
-* [Jekyll Admin](adminstration/jekyll-admin.md)
+* [Jekyll Admin](administration/jekyll-admin.md)
 * [Open-Source GitHub Organization](administration/open-source-github-organization.md)
 * [Other Options](other-options.md)
 * [Lessons Learned](lessons-learned.md)
