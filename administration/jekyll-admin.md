@@ -1,6 +1,6 @@
 # Jekyll Admin
 
-Though GitHub could looking intimidating at first, it can actually be simple to use. For instance, creating a new blog post is not any more difficult than creating a new word document, writing some text and saving it. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process, for example, occasionally adding a new blog post using the process described below.
+Though GitHub could looking intimidating at first, it can actually be simple to use. For instance, creating a new blog post is not any more difficult than creating a new Microsoft Word document, writing some text and saving it. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process, for example, occasionally adding a new blog post using the process described below.
 
 ## Getting Started
 
