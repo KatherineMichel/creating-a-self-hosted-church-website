@@ -2,6 +2,8 @@
 
 Though GitHub could looking intimidating at first, it can actually be simple to use. For instance, creating a new blog post is not any more difficult than creating a new Microsoft Word document, writing some text and saving it. For the website described in this GitBook, it is expected that the majority of the code-base will remain unchanged. The routine updates that need to be made can be made by non-developers in an isolated area of the code through a documented process, for example, occasionally adding a new blog post using the process described below.
 
+Note: after this website and tutorial were originally made, [Jekyll Admin](https://github.com/jekyll/jekyll-admin) was created. Jekyll Admin may be the subject of a future update to this tutorial.  
+
 ## Getting Started
 
 Website admins will need to have their own personal GitHub account. If the website is hosted in an organization acount, website admins will need to be members of the organization to have admin privileges.   
