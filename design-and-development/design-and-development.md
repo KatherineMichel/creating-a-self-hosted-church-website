@@ -15,3 +15,59 @@ The templates I will be using will be:
 
 Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 
+### File Structure
+
+    _includes/
+           footer.html
+           head.html
+           header.html
+    _layouts/
+           default.html
+           page.html
+           post.html
+    _posts/
+           2016-07-11-pastors-welcome.markdown
+           example.markdown
+           yyyy-mm-dd-post-template.markdown
+    css/
+           bootstrap.css
+           bootstrap.min.css
+           main.css
+    fonts/   
+           glyphicons-halflings-regular.eot
+           glyphicons-halflings-regular.svg
+           glyphicons-halflings-regular.ttf
+           glyphicons-halflings-regular.woff
+    images/
+           adult-choir.jpg
+           childrens-choir.jpg
+           church-outside-large.jpg
+           church-outside.jpg
+           church-sanctuary.jpg
+           gretas-dog.jpg
+           musicians.jpg
+           rethink-church-logo.jpg
+           stained-glass-window.jpg
+           sunflowers.jpg
+           thanksgiving-service.jpg
+           umw-mission.jpg
+           umw.jpg
+           welcome-sign.jpg
+    .gitignore
+    README.md
+    _config.yml
+    about.html
+    activities.html
+    blog.html
+    childrenandyouthministries.md
+    church.md
+    communityoutreach.md
+    feed.xml
+    globalchurch.md
+    index.html
+    musicministry.md
+    prettyprairie.md
+    unitedmethodistwomen.md
+    welcome.md
+    worship.md
+
