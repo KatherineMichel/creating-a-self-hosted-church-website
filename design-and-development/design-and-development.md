@@ -17,7 +17,7 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
 
 ### Code Explainer
 
-The _config.yml file contains project configurations. 
+The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. 
 
 ### Primary Folder and File Structure
 
