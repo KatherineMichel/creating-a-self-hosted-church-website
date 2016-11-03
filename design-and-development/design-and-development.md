@@ -98,4 +98,4 @@ Website style and image files are found in the css, images, and fonts folders.
 | css/                            | Style files                                                           |
 | images/                         | Image files                                                           |
 | fonts/                          | Font files                                                            |
-
+| feed.xml                        | Could be used to create RSS feed, but not in use at this time         |
