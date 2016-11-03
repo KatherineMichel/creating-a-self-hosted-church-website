@@ -82,7 +82,7 @@ Website style and image files are found in the css, images, and fonts folders.
     feed.xml
     index.html
 
-# High Level Folder and File Descriptions
+### High Level Folder and File Descriptions
 
 | Folder/File                     | Description                                                           |
 | ------------------------------- | --------------------------------------------------------------------- |
