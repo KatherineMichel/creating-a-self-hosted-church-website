@@ -17,6 +17,8 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
 
 ### Code Explainer
 
+The _config.yml file contains project configurations. 
+
 ### Primary Folder and File Structure
 
     _includes/
