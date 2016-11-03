@@ -1,5 +1,7 @@
 # Design and Development
 
+Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
+
 ## Design
 
 Website design is created by using [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML) and [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS). I will be using a very popular and useful web development tool called [Bootstrap](http://getbootstrap.com). Bootstrap is a pre-made web development library for responsive design (design that automatically adapts to fit the browser size) and is used by many people around the world. I will be using several [unstyled starter Bootstrap templates](http://startbootstrap.com/template-categories/unstyled) from a website called [Start Bootstrap](http://startbootstrap.com). 
@@ -12,8 +14,6 @@ The templates I will be using will be:
 * Blog post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
 
 ## Development
-
-Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 
 ### Code Explainer
 
