@@ -44,7 +44,7 @@ Website style and image files are found in the css, images, and fonts folders.
            bootstrap.min.css
            main.css
     detail-pages/
-           children-andy-outh-ministries.md
+           children-and-youth-ministries.md
            church.md
            community-outreach.md
            global-church.md
@@ -87,6 +87,15 @@ Website style and image files are found in the css, images, and fonts folders.
 | Folder/File                     | Description                                                           |
 | ------------------------------- | --------------------------------------------------------------------- |
 | README.md                       | Project info and instructions                                         |
+| .gitignore                      | Instructs git of files to exclude when pushing files to git repo      |
+| _config.yml                     | Website configurations                                                |
+| _includes/                      | Partial templates to insert into _layouts folder files                |
+| _layouts/                       | Templates that .html and .md file content is inserted into            |
 | index.html                      | Website homepage                                                      |
-
+| detail-pages/                   | Special subject content inserted into pages (linked to from Homepage) |
+| posts/                          | Blog post content inserted into post template and Blog page           |
+| about, activities, blog.html    | Main website pages which use the default layout template              |
+| css/                            | Style files                                                           |
+| images/                         | Image files                                                           |
+| fonts/                          | Font files                                                            |
 
