@@ -37,7 +37,6 @@ Website style and image files are found in the css, images, and fonts folders.
            post.html
     _posts/
            2016-07-11-pastors-welcome.markdown
-           example.markdown
            yyyy-mm-dd-post-template.markdown
     css/
            bootstrap.css
