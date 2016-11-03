@@ -17,7 +17,13 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
 
 ### Code Explainer
 
-The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. 
+The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. When the website homepage URL is entered into a browser and the index.html file is fetched, or a hyperlink on the website is clicked and another corresponding .html page is fetched, based on the front matter in the .html file, a template is fetched from the _layouts folder and the .html file content is inserted into the template where indicated, and any partial templates indicated in the template are fetched from the _includes folder (such as header and footer) and inserted into the template where indicated.
+
+The main website pages (Homepage (index.html), Activities, Blog, and About) use the default template. Blog posts inserted into the Blog page are found in the _posts folder and use the post template. 
+
+The website Homepage contains 
+
+Website style and image files are found in the css, images, and fonts folders.
 
 ### Primary Folder and File Structure
 
