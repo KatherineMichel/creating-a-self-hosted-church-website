@@ -17,11 +17,11 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
 
 ### Code Explainer
 
-The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. When the website homepage URL is entered into a browser and the index.html file is fetched, or a hyperlink on the website is clicked and another corresponding .html page is fetched, based on the front matter in the .html file, a template is fetched from the _layouts folder and the .html file content is inserted into the template where indicated, and any partial templates indicated in the template are fetched from the _includes folder (such as header and footer) and inserted into the template where indicated.
+The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. When the website homepage URL is entered into a browser and the index.html file is fetched, or a hyperlink on the website is clicked and another corresponding .html page is fetched, based on the front matter in the .html file, a template is fetched from the _layouts folder. The content of the .html file is inserted into the template as content. Often, the template will indicate partial templates in the _includes folder (such as header and footer) to fetch and insert into the template where indicated.
 
 The main website pages (Homepage (index.html), Activities, Blog, and About) use the default template. Blog posts inserted into the Blog page are found in the _posts folder and use the post template. 
 
-The website Homepage contains 
+The website Homepage contains rows of "cards" (a photo with a hyperlink to a detail page with special subject matter). The subject matter for each detail page is contained within a markdown file of the same name found within the detail-pages folder. These detail pages use the page template. The index.html contains permalinks corresponding to each detail page and the correct detail page markdown file is identified through the permalink indicated in the markdown file front matter. When the permalink is clicked on the homepage, the rendering engine identifies the markdown file associated with that permalink, fetches the page template and inserts the contents of the correct markdown file into the page template. 
 
 Website style and image files are found in the css, images, and fonts folders.
 
@@ -44,13 +44,13 @@ Website style and image files are found in the css, images, and fonts folders.
            bootstrap.min.css
            main.css
     detail-pages/
-           childrenandyouthministries.md
+           children-andy-outh-ministries.md
            church.md
-           communityoutreach.md
-           globalchurch.md
-           musicministry.md
-           prettyprairie.md
-           unitedmethodistwomen.md
+           community-outreach.md
+           global-church.md
+           music-ministry.md
+           pretty-prairie.md
+           united-methodist-women.md
            welcome.md
            worship.md
     fonts/   
