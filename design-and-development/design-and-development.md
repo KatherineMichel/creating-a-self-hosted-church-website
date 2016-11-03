@@ -15,7 +15,7 @@ The templates I will be using will be:
 
 Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 
-### File Structure
+### Primary File Structure
 
     _includes/
            footer.html
@@ -33,6 +33,16 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
            bootstrap.css
            bootstrap.min.css
            main.css
+    detail-pages/
+           childrenandyouthministries.md
+           church.md
+           communityoutreach.md
+           globalchurch.md
+           musicministry.md
+           prettyprairie.md
+           unitedmethodistwomen.md
+           welcome.md
+           worship.md
     fonts/   
            glyphicons-halflings-regular.eot
            glyphicons-halflings-regular.svg
@@ -59,15 +69,7 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
     about.html
     activities.html
     blog.html
-    childrenandyouthministries.md
-    church.md
-    communityoutreach.md
     feed.xml
-    globalchurch.md
     index.html
-    musicministry.md
-    prettyprairie.md
-    unitedmethodistwomen.md
-    welcome.md
-    worship.md
+
 
