@@ -2,7 +2,7 @@
 
 ## About Jekyll 
 
-[Jekyll](https://jekyllrb.com) is a web development framework created at [GitHub](https://github.com), the most popular place in the world for hosting open-source code. Because Jekyll is easy to deploy and can be hosted for free on GitHub, many companies and developers conveniently use it to makes websites that introduce themselves to their fellow developers and the world. Though Jekyll is user friendly, it proides powerful web development features. However, Jekyll is a static framework that does not offer all traditional web development functionality. Whether it is right for a specific project needs to be evaluated on a case-by-case basis. 
+[Jekyll](https://jekyllrb.com) is a web development framework created at [GitHub](https://github.com), the most popular place in the world for hosting open-source code. Because Jekyll is easy to deploy and can be hosted for free on GitHub, many companies and developers conveniently use it to makes websites that introduce themselves and their work to their fellow developers and the world. Though Jekyll is user friendly, it proides powerful web development features. However, Jekyll is a static framework that does not offer all traditional web development functionality. Whether it is right for a specific project needs to be evaluated on a case-by-case basis. 
  
 ## Jekyll Pros and Cons
 
