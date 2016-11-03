@@ -15,7 +15,9 @@ The templates I will be using will be:
 
 Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 
-### Primary File Structure
+### Code Explainer
+
+### Primary Folder and File Structure
 
     _includes/
            footer.html
@@ -71,5 +73,12 @@ Jekyll version of the self-hosted [church website](https://katherinemichel.githu
     blog.html
     feed.xml
     index.html
+
+# High Level Folder and File Descriptions
+
+| Folder/File                     | Description                                                           |
+| ------------------------------- | --------------------------------------------------------------------- |
+| README.md                       | Project info and instructions                                         |
+| index.html                      | Website homepage                                                      |
 
 
