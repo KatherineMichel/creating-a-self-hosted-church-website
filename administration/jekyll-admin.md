@@ -42,9 +42,9 @@ In the "Name your file" box, using the exact format (yyyy-mm-dd-blog-post-title.
 When you are happy with your post, scroll to the bottom of the page. Optionally, leave a commit message. Click the green "Commit new file" button
 ![](images/commit-new-file.jpg)
 
-The post will automatically populate a blog post description on the blog homepage with a link to an automatically populated blog post page
+The post will automatically populate a blog post description on the Blog homepage with a link to an automatically populated blog post page
 
-Example post on blog homepage
+Example post on Blog homepage
 ![](images/blog-post-example-homepage.jpg)
 
 Blog post page
