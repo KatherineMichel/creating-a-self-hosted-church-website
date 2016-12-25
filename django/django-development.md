@@ -84,16 +84,16 @@ The project-level settings have been altered to look for static files and templa
 | README.md                                       | Project info and instructions                                         |
 | .env                                            | Contains sensitive env variables and is included in .gitignore        |
 | .gitignore                                      | Instructs git of files to exclude when pushing files to git repo      |
-| manage.py                                       |                                                                       |
+| manage.py                                       | Django config file                                                    |
 | Procfile                                        | Heroku deployment config file (stands for process file)               |
-| requirements.txt                                | Heroku deployment config file                                         |
+| requirements.txt                                | Django dependencies file for automated installation                   |
 | runtime.txt                                     | Heroku deployment config file                                         |
 | self_hosted_church_website_django/_init_.py     |                                                                       |
 | self_hosted_church_website_django/settings.py   | Project-level settings                                                |
 | self_hosted_church_website_django/urls.py       | Project-level urls                                                    |
 | self_hosted_church_website_django/wsgi.py       |                                                                       |
 | db.sqlite3                                      | Local database file. Could be included in .gitignore                  |
-| blog/_init_.py                                  |                                                                       | | blog/admin.py                                   |                                                                       | | blog/apps.py                                    |                                                                       | | blog/models.py                                  | App-level models                                                      | | blog/tests.py                                   |                                                                       |  | blog/urls.py                                    | App-level urls                                                        | | blog/views.py                                   | App-level views                                                       |
+| blog/_init_.py                                  |                                                                       | | blog/admin.py                                   | App-level admin                                                       | | blog/apps.py                                    |                                                                       | | blog/models.py                                  | App-level models                                                      | | blog/tests.py                                   |                                                                       |  | blog/urls.py                                    | App-level urls                                                        | | blog/views.py                                   | App-level views                                                       |
 | static/css/                                     | Style files                                                           |
 | static/images/                                  | Image files                                                           |
 | static/fonts/                                   | Font files                                                            |
