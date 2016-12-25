@@ -8,7 +8,6 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 
     .env
     .gitignore
-
     manage.py
     Procfile
     README.md
@@ -59,29 +58,41 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
            activities.html
            base.html
            blog.html
-           home.html  
+           home.html             
            post-detail.html             
-    detail-pages/
-           children-and-youth-ministries.md
-           church.md
-           community-outreach.md
-           global-church.md
-           music-ministry.md
-           pretty-prairie.md
-           united-methodist-women.md
-           welcome.md
-           worship.md
+           detail-pages/
+                children-and-youth-ministries.md
+                church.md
+                community-outreach.md
+                global-church.md
+                music-ministry.md
+                pretty-prairie.md
+                united-methodist-women.md
+                welcome.md
+                worship.md
            
 ## High Level Folder and File Descriptions
 
-| Folder/File                     | Description                                                           |
-| ------------------------------- | --------------------------------------------------------------------- |
-| README.md                       | Project info and instructions                                         |
-| .gitignore                      | Instructs git of files to exclude when pushing files to git repo      |
-| index.html                      | Website homepage                                                      |
-| detail-pages/                   | Special subject content inserted into pages (linked to from Homepage) |
-| posts/                          | Blog post content inserted into post template and Blog page           |
-| about, activities, blog.html    | Main website pages which use the default layout template              |
-| css/                            | Style files                                                           |
-| images/                         | Image files                                                           |
-| fonts/                          | Font files                                                            |
+| Folder/File                                     | Description                                                           |
+| ----------------------------------------------- | --------------------------------------------------------------------- |
+| README.md                                       | Project info and instructions                                         |
+| .env                                            | Contains sensitive env variables and is included in .gitignore        |
+| .gitignore                                      | Instructs git of files to exclude when pushing files to git repo      |
+| manage.py                                       |                                                                       |
+| Procfile                                        | Stands for process file. A Heroku deployment config file              |
+| requirements.txt                                |                                                                       |
+| runtime.txt                                     |                                                                       |
+| self_hosted_church_website_django/_init_.py     |                                                                       |
+| self_hosted_church_website_django/settings.py   |                                                                       |
+| self_hosted_church_website_django/urls.py       |                                                                       |
+| self_hosted_church_website_django/wsgi.py       |                                                                       |
+| db.sqlite3                                      |                                                                       |
+| blog/_init_.py                                  |                                                                       | | blog/admin.py                                   |                                                                       | | blog/apps.py                                    |                                                                       | | blog/models.py                                  |                                                                       | | blog/tests.py                                   |                                                                       |  | blog/urls.py                                    |                                                                       | | blog/views.py                                   |                                                                       |
+| static/css/                                     | Style files                                                           |
+| static/images/                                  | Image files                                                           |
+| static/fonts/                                   | Font files                                                            |
+
+| home.html                                       | Website homepage                                                      |
+| detail-pages/                                   | Special subject content inserted into pages (linked to from Homepage) |
+| posts/                                          | Blog post content inserted into post template and Blog page           |
+| about, activities, blog.html                    | Main website pages which use the default layout template              |
