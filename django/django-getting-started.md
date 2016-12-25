@@ -2,7 +2,7 @@
 
 ## About Django
 
-Django is a fully-featured web development framework based on the Python programming language. 
+[Django](https://www.djangoproject.com) is a fully-featured web development framework based on the [Python](https://www.python.org) programming language. 
 
 ## Django Pros and Cons
 
@@ -33,7 +33,7 @@ Django website:
 ## Tools Needed for This Project
 
 * [Git](https://git-scm.com) (GitHub provides a [detailed installation tutorial](https://help.github.com/articles/set-up-git))
-* Heroku account and Heroku Toolbelt
-* Python, Django, and pip installed and ready to use
+* [Heroku](www.heroku.com) account and [Heroku Toolbelt](https://devcenter.heroku.com/articles/heroku-cli)
+* [Python](https://www.python.org), [Django](https://www.djangoproject.com), and pip installed and ready to use
 * [Start Bookstrap unstyled starter templates](http://startbootstrap.com/template-categories/unstyled)
 * Optional: [GitHub](https://github.com) personal or organization account, for code collaboration or storage
