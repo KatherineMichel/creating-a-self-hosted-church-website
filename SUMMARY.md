@@ -11,7 +11,7 @@ Table of Contents
    * [Before and After](design/before-and-after.md)
 * [Jekyll- Getting Started](jekyll/jekyll-getting-started.md)
 * [Jekyll- Development](jekyll/jekyll-development.md)
-* [Jekyll Admin](jekyll/jekyll-admin.md)
+* [Jekyll- Admin](jekyll/jekyll-admin.md)
 * [Open-Source GitHub Organization](administration/open-source-github-organization.md)
 * [Other Options](other-options.md)
 * [Lessons Learned](lessons-learned.md)
