@@ -17,7 +17,7 @@ Cons:
 * More difficult to understand than Jekyll
 * Cannot be rendered via GitHub (though code can be stored there)
 * More difficult to deploy than Jekyll
-* May not be free to deploy (depends on approach)
+* May not be free to deploy (depends on host and resource use)
 
 ## Cost Comparison
 
