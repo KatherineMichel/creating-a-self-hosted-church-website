@@ -31,3 +31,9 @@ Django website:
 * Cost of labor, if any
 
 ## Tools Needed for This Project
+
+* [Git](https://git-scm.com) (GitHub provides a [detailed installation tutorial](https://help.github.com/articles/set-up-git))
+* Heroku account and Heroku Toolbelt
+* Python, Django, and pip installed and ready to use
+* [Start Bookstrap unstyled starter templates](http://startbootstrap.com/template-categories/unstyled)
+* Optional: [GitHub](https://github.com) personal or organization account, for code collaboration or storage
