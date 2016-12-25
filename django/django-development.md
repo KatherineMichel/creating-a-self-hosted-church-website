@@ -79,20 +79,26 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 | .env                                            | Contains sensitive env variables and is included in .gitignore        |
 | .gitignore                                      | Instructs git of files to exclude when pushing files to git repo      |
 | manage.py                                       |                                                                       |
-| Procfile                                        | Stands for process file. A Heroku deployment config file              |
-| requirements.txt                                |                                                                       |
-| runtime.txt                                     |                                                                       |
+| Procfile                                        | Heroku deployment config file (stands for process file)               |
+| requirements.txt                                | Heroku deployment config file                                         |
+| runtime.txt                                     | Heroku deployment config file                                         |
 | self_hosted_church_website_django/_init_.py     |                                                                       |
-| self_hosted_church_website_django/settings.py   |                                                                       |
-| self_hosted_church_website_django/urls.py       |                                                                       |
+| self_hosted_church_website_django/settings.py   | Project-level settings                                                |
+| self_hosted_church_website_django/urls.py       | Project-level urls                                                    |
 | self_hosted_church_website_django/wsgi.py       |                                                                       |
-| db.sqlite3                                      |                                                                       |
-| blog/_init_.py                                  |                                                                       | | blog/admin.py                                   |                                                                       | | blog/apps.py                                    |                                                                       | | blog/models.py                                  |                                                                       | | blog/tests.py                                   |                                                                       |  | blog/urls.py                                    |                                                                       | | blog/views.py                                   |                                                                       |
+| db.sqlite3                                      | Local database file. Could be included in .gitignore                  |
+| blog/_init_.py                                  |                                                                       | | blog/admin.py                                   |                                                                       | | blog/apps.py                                    |                                                                       | | blog/models.py                                  | App-level models                                                      | | blog/tests.py                                   |                                                                       |  | blog/urls.py                                    | App-level urls                                                        | | blog/views.py                                   | App-level views                                                       |
 | static/css/                                     | Style files                                                           |
 | static/images/                                  | Image files                                                           |
 | static/fonts/                                   | Font files                                                            |
+| templates/404.html                              | Page not found template                                               |
+| templates/about.html                            | About page template                                                   |
+| templates/activities.html                       | Activities page template                                              |
+| templates/base.html                             | All other templates extend from this template                         |
+| templates/blog.html                             | Blog template                                                         |
+| templates/home.html                             | Website homepage template                                             |
+| templates/post-detail.html                      | Blog post detail template                                             |
+| templates/detail-pages/                         |                                                                       |
 
-| home.html                                       | Website homepage                                                      |
-| detail-pages/                                   | Special subject content inserted into pages (linked to from Homepage) |
-| posts/                                          | Blog post content inserted into post template and Blog page           |
-| about, activities, blog.html                    | Main website pages which use the default layout template              |
+
+| detail-pages/                                   | Special subject content inserted into pages (linked to from Hompage)  |
