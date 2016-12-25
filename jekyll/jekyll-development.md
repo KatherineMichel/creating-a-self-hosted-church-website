@@ -1,21 +1,8 @@
-# Design and Development
+# Jekyll- Development
 
 Jekyll version of the self-hosted [church website](https://katherinemichel.github.io/self-hosted-church-website-jekyll) and [code](https://github.com/KatherineMichel/self-hosted-church-website-jekyll/tree/gh-pages)<br>
 
-## Design
-
-Website design is created by using [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML) and [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS). I will be using a very popular and useful web development tool called [Bootstrap](http://getbootstrap.com). Bootstrap is a pre-made web development library for responsive design (design that automatically adapts to fit the browser size) and is used by many people around the world. I will be using several [unstyled starter Bootstrap templates](http://startbootstrap.com/template-categories/unstyled) from a website called [Start Bootstrap](http://startbootstrap.com). 
-
-The templates I will be using will be: 
-* Homepage: [Start Bootstrap 3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio)
-* Homepage detail page and about page: [Start Bootstrap Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item)
-* Activity page: a combination of pieces from other templates
-* Blog homepage: [Start Bootstrap Blog Home](http://startbootstrap.com/template-overviews/blog-home)
-* Blog post: [Start Bootstrap Blog Post](http://startbootstrap.com/template-overviews/blog-post)
-
-## Development
-
-### Code Explainer
+## Code Explainer
 
 The _config.yml file contains project configurations. The first file to be rendered is the index.html, which is the website homepage. When the website homepage URL is entered into a browser and the index.html file is fetched, or a hyperlink on the website is clicked and another corresponding .html page is fetched, based on the front matter in the .html file, a template is fetched from the _layouts folder. The content of the .html file is inserted into the template as content. Often, the template will indicate partial templates in the _includes folder (such as header and footer) to fetch and insert into the template where indicated.
 
@@ -25,7 +12,7 @@ The website Homepage contains rows of "cards" (a photo with a hyperlink to a det
 
 Website style and image files are found in the css, images, and fonts folders.
 
-### Primary Folder and File Structure
+## Primary Folder and File Structure
 
     _includes/
            footer.html
@@ -81,7 +68,7 @@ Website style and image files are found in the css, images, and fonts folders.
     feed.xml
     index.html
 
-### High Level Folder and File Descriptions
+## High Level Folder and File Descriptions
 
 | Folder/File                     | Description                                                           |
 | ------------------------------- | --------------------------------------------------------------------- |
