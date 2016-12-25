@@ -63,15 +63,15 @@ The project-level settings have been altered to look for static files and templa
            home.html             
            post-detail.html             
            detail-pages/
-                children-and-youth-ministries.md
-                church.md
-                community-outreach.md
-                global-church.md
-                music-ministry.md
-                pretty-prairie.md
-                united-methodist-women.md
-                welcome.md
-                worship.md
+                children-and-youth-ministries.html
+                church.html
+                community-outreach.html
+                global-church.html
+                music-ministry.html
+                pretty-prairie.html
+                united-methodist-women.html
+                welcome.html
+                worship.html
            
 ## High Level Folder and File Descriptions
 
