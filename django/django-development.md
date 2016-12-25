@@ -4,6 +4,8 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 
 ## Code Explainer
 
+Most pages are static and are rendered from self_hosted_church_website_django/urls.py as a TemplateView and the domain name will prepend the URL. The Blog pages are the exception. A special app called "blog" has been created. An entry in self_hosted_church_website_django/urls.py points to blog/urls.py, which contains the Blog URLs. Because these URLs are at the app level, the Blog URL will be www.domain-name/blog and the post pages will be prepended with www.domain-name/blog. 
+
 The project-level settings have been altered to look for static files and templates outside of the app folder. Therefore, all static files and templates are in root folders. Soft-coded links to individual static files can found in the templates. URL hyperlinks are based on the "name" variable in self_hosted_church_website_django/urls.py and blog/urls.py.
 
 ## Primary Folder and File Structure
