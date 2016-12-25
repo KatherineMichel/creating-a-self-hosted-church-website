@@ -4,6 +4,8 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 
 ## Code Explainer
 
+The project-level settings have been altered to look for static files and templates outside of the app folder. Therefore, all static files and templates are in root folders. Soft-coded links to individual static files can found in the templates. URL hyperlinks are based on the "name" variable in self_hosted_church_website_django/urls.py and blog/urls.py.
+
 ## Primary Folder and File Structure
 
     .env
@@ -98,7 +100,4 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 | templates/blog.html                             | Blog template                                                         |
 | templates/home.html                             | Website homepage template                                             |
 | templates/post-detail.html                      | Blog post detail template                                             |
-| templates/detail-pages/                         |                                                                       |
-
-
-| detail-pages/                                   | Special subject content inserted into pages (linked to from Hompage)  |
+| templates/detail-pages/                         | Templates for detail-pages linked to from Homepage                    |
