@@ -6,10 +6,61 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 
 ## Primary Folder and File Structure
 
-    css/
-           bootstrap.css
-           bootstrap.min.css
-           main.css
+    .env
+    .gitignore
+
+    manage.py
+    Procfile
+    README.md
+    requirements.txt
+    runtime.txt
+    self_hosted_church_website_django/
+           _init_.py
+           settings.py
+           urls.py
+           wsgi.py
+    db.sqlite3
+    blog/
+           _init_.py
+           admin.py
+           apps.py
+           models.py
+           tests.py
+           urls.py
+           views.py
+    static/    
+           css/
+                bootstrap.css
+                bootstrap.min.css
+                main.css
+           fonts/   
+                glyphicons-halflings-regular.eot
+                glyphicons-halflings-regular.svg
+                glyphicons-halflings-regular.ttf
+                glyphicons-halflings-regular.woff
+           images/
+                adult-choir.jpg
+                childrens-choir.jpg
+                church-outside-large.jpg
+                church-outside.jpg
+                church-sanctuary.jpg
+                gretas-dog.jpg
+                musicians.jpg
+                rethink-church-logo.jpg
+                stained-glass-window.jpg
+                sunflowers.jpg
+                thanksgiving-service.jpg
+                umw-mission.jpg
+                umw.jpg
+                welcome-sign.jpg
+    templates/
+           404.html
+           about.html
+           activities.html
+           base.html
+           blog.html
+           home.html  
+           post-detail.html             
     detail-pages/
            children-and-youth-ministries.md
            church.md
@@ -20,33 +71,7 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
            united-methodist-women.md
            welcome.md
            worship.md
-    fonts/   
-           glyphicons-halflings-regular.eot
-           glyphicons-halflings-regular.svg
-           glyphicons-halflings-regular.ttf
-           glyphicons-halflings-regular.woff
-    images/
-           adult-choir.jpg
-           childrens-choir.jpg
-           church-outside-large.jpg
-           church-outside.jpg
-           church-sanctuary.jpg
-           gretas-dog.jpg
-           musicians.jpg
-           rethink-church-logo.jpg
-           stained-glass-window.jpg
-           sunflowers.jpg
-           thanksgiving-service.jpg
-           umw-mission.jpg
-           umw.jpg
-           welcome-sign.jpg
-    .gitignore
-    README.md
-    about.html
-    activities.html
-    blog.html
-    index.html
-
+           
 ## High Level Folder and File Descriptions
 
 | Folder/File                     | Description                                                           |
