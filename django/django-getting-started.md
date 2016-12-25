@@ -2,13 +2,12 @@
 
 ## About Django
 
-[Django](https://www.djangoproject.com) is a fully-featured web development framework based on the [Python](https://www.python.org) programming language. 
+[Django](https://www.djangoproject.com) is a fully-featured web development framework based on the [Python](https://www.python.org) programming language. Django can be used to create a website as simple as a static, persona blog, and as complex as a dynamic, high-traffic web property. 
 
 ## Django Pros and Cons
 
 Pros:
-* Sophisticated functionality
-* Can be used to create sites ranging from simple, static, personal blog, to complex, dynamic, fully-featured website
+* Sophisticated functionality out of the box
 * Optional admin dashboard
 * Staged deployment
 * Extensive documentation and code-bases
