@@ -16,7 +16,7 @@ Pros:
 Cons:
 * Static framework (as opposted to dynamic)
 * Limited functionality
-* Example websites tend to be simple, personal blogs, not complex, full-featured websites
+* Example websites tend to be simple, personal blogs, not complex, fully-featured websites
 * Limited staged deployment
 
 ## Cost Comparison
