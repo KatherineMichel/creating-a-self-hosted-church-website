@@ -25,4 +25,4 @@ In order to login, create a superuser username, password and email
 
     $ python manage.py createsuperuser
 
-## Staged Deployment
+
