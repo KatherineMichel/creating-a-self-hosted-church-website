@@ -4,11 +4,23 @@ Django version of the self-hosted [church website](https://self-hosted-church-we
 
 ## Code Explainer
 
-I have used the [Heroku Django Template](https://github.com/heroku/heroku-django-template), which is deployment ready. The template can be deployed for free via [Heroku free tier](https://www.heroku.com/pricing). One change I have made for deployment, is to add python-decouple to the requirements.txt before installation, update the settings.py and move the SECRET_KEY to the .env file, which is included in the .gitignore so it will not be committed to source control. The SECRET_KEY is sensitive information and should not be made public in production. I have also used a [GitHub Python .gitignore template](https://github.com/github/gitignore).
+I have used the [Heroku Django Template](https://github.com/heroku/heroku-django-template), which is deployment ready. The template can be deployed for free via [Heroku free tier](https://www.heroku.com/pricing). I followed the Heroku Django Template instructions, including creating a virtual environment for the project. 
 
-Most pages are static and are rendered from self_hosted_church_website_django/urls.py as a TemplateView and the domain name will prepend the URL. The Blog pages are the exception. A special app called "blog" has been created. An entry in self_hosted_church_website_django/urls.py points to blog/urls.py, which contains the Blog URLs. Because these URLs are at the app level, the Blog URL will be www.domain-name/blog and the post pages will be prepended with www.domain-name/blog. blog/models.py contains a blog post model and blog/views.py contains a view for the Blog page and post pages. The Blog page template contains a for loop that will fetch each post and insert the post info into the template. This loop will continue until every post is displayed, to form a list. The post-detail template does not need a for loop because only one post will be displayed, with the applicable info again inserted into the template. pk model variable and regular expression URLs will be used to enable abstract code to fetch blog posts created in the future. 
+However, I did make one change before pushing my new project to my own GitHub repo. I added python-decouple to the requirements.txt before installation, updated the settings.py, and moved the SECRET_KEY to the .env file. A SECRET_KEY used in production is sensitive information and should not be committed to public source control. I then included the .env file in the .gitignore, so that the .env would remain local and not be pushed to my public GitHub repo. By the way, I used a [GitHub Python .gitignore template](https://github.com/github/gitignore).
 
-The project-level settings have been altered to look for static files and templates outside of the app folder. Therefore, all static files and templates are in root folders. All templates extend from base.html template. Soft-coded links to individual static files can found in the templates. URL hyperlinks are based on the "name" variable in self_hosted_church_website_django/urls.py and blog/urls.py.
+All static files are stored in a root folder called static. All templates are stored in a root folder called templates. The project-level self_hosted_church_website_django/settings.py has been altered so that the static files and templates are located in these root folders, rather than in an app folder. All templates extend from base.html template, which includes soft-coded links to the CSS files. Other templates contain soft-coded links to other static files such as images as needed.
+
+Most of the website pages are static and are rendered at a project-level from self_hosted_church_website_django/urls.py as TemplateView. This means that the templates are fetched from the templates folder based on name and rendered without any need for a model or view. The domain name will prepend the URL I have specified for each of these pages in self_hosted_church_website_django/urls.py. 
+
+The Blog requires a model, so these pages cannot be rendered as a simple TemplateView. I have created an app called "blog." In the blog folder are a models.py file containing the blog model and a views.py file containing views for the Blog page and the post detail pages. An entry in the project-level self_hosted_church_website_django/urls.py points to the app-level blog/urls.py, which contains the Blog page and post detail URLs. Because the URLs in the blog/urls.py are app-level, the Blog page URL will be www.domain-name/blog, and the post detail pages will be prepended with www.domain-name/blog. pk model variable and a regular expression in blog/urls.py make it possible for post detail pages to be rendered when blog posts are created in the future. 
+
+The Blog page template contains a for loop that will fetch each post and insert the post info into the template. This loop will continue until every post is displayed, to form a list. The post-detail template does not need a for loop because only one post will be displayed, with the applicable info again inserted into the template. 
+
+URL hyperlinks are based on the "name" variable in self_hosted_church_website_django/urls.py and blog/urls.py.
+
+<!--
+Admin: The blog model fields map to information inputted. 
+-->
 
 ## Primary Folder and File Structure
 
