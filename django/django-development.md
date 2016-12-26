@@ -14,7 +14,7 @@ Most of the website pages are static and are rendered at a project-level from se
 
 The Blog requires a model, so these pages cannot be rendered as a simple TemplateView. I have created an app called "blog." In the blog folder are a models.py file containing the blog model and a views.py file containing views for the Blog page and the post detail pages. An entry in the project-level self_hosted_church_website_django/urls.py points to the app-level blog/urls.py, which contains the Blog page and post detail URLs. Because the URLs in the blog/urls.py are app-level, the Blog page URL will be www.domain-name/blog, and the post detail pages will be prepended with www.domain-name/blog. pk model variable and a regular expression in blog/urls.py make it possible for post detail pages to be rendered when blog posts are created in the future. 
 
-The Blog page template contains a for loop that will fetch each post and insert the post info into the template. This loop will continue until every post is displayed, to form a list. The post-detail template does not need a for loop because only one post will be displayed, with the applicable info again inserted into the template. 
+The Blog page template contains a for loop that will fetch each post and insert the post info (mapped from the model) into the template. This loop will continue until every post is displayed, to form a list. The post-detail template does not need a for loop because only one post will be displayed, with the applicable info again inserted into the template. 
 
 URL hyperlinks are based on the "name" variable in self_hosted_church_website_django/urls.py and blog/urls.py.
 
@@ -100,16 +100,16 @@ Admin: The blog model fields map to information inputted.
 | Procfile                                        | Heroku deployment config file (stands for process file)               |
 | requirements.txt                                | Django dependencies file for automated installation                   |
 | runtime.txt                                     | Heroku deployment config file                                         |
-| self_hosted_church_website_django/_init_.py     |                                                                       |
+| self_hosted_church_website_django/_init_.py     | Django config file                                                    |
 | self_hosted_church_website_django/settings.py   | Project-level settings                                                |
 | self_hosted_church_website_django/urls.py       | Project-level urls                                                    |
-| self_hosted_church_website_django/wsgi.py       |                                                                       |
+| self_hosted_church_website_django/wsgi.py       | A Web Server Gateway Interface file                                   |
 | db.sqlite3                                      | Local database file. Could be included in .gitignore                  |
-| blog/_init_.py                                  |                                                                       | 
+| blog/_init_.py                                  | Django config file                                                    | 
 | blog/admin.py                                   | App-level admin                                                       | 
-| blog/apps.py                                    |                                                                       | 
+| blog/apps.py                                    | App-level config file                                                 | 
 | blog/models.py                                  | App-level models                                                      | 
-| blog/tests.py                                   |                                                                       | 
+| blog/tests.py                                   | App-level test file                                                   | 
 | blog/urls.py                                    | App-level urls                                                        | 
 | blog/views.py                                   | App-level views                                                       |
 | static/css/                                     | Style files                                                           |
