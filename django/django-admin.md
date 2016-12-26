@@ -8,4 +8,11 @@ The admin interface is included in the project-level URLs
 
     url(r'^admin/', admin.site.urls),
 
+The model is imported and registered in the app-level admin.py
+
+    from django.contrib import admin
+    from .models import Post
+
+    admin.site.register(Post)
+
 ## Staged Deployment
