@@ -15,4 +15,14 @@ The model is imported and registered in the app-level admin.py
 
     admin.site.register(Post)
 
+## Logging In
+
+The admin interface URL will be:
+
+    www.domain-name/admin
+
+In order to login, create a superuser username, password and email
+
+    $ python manage.py createsuperuser
+
 ## Staged Deployment
