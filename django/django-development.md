@@ -100,12 +100,12 @@ Admin: The blog model fields map to information inputted.
 | Procfile                                        | Heroku deployment config file (stands for process file)               |
 | requirements.txt                                | Django dependencies file for automated installation                   |
 | runtime.txt                                     | Heroku deployment config file                                         |
-| self_hosted_church_website_django/_init_.py     | Django config file                                                    |
+| self_hosted_church_website_django/_init_.py     | Project-level config file                                             |
 | self_hosted_church_website_django/settings.py   | Project-level settings                                                |
 | self_hosted_church_website_django/urls.py       | Project-level URLs                                                    |
 | self_hosted_church_website_django/wsgi.py       | A Web Server Gateway Interface file                                   |
 | db.sqlite3                                      | Local database file. Could be included in .gitignore                  |
-| blog/_init_.py                                  | Django config file                                                    | 
+| blog/_init_.py                                  | App-level config file                                                 | 
 | blog/admin.py                                   | App-level admin                                                       | 
 | blog/apps.py                                    | App-level config file                                                 | 
 | blog/models.py                                  | App-level models                                                      | 
