@@ -21,7 +21,7 @@ The admin interface URL will be:
 
     www.domain-name/admin
 
-In order to login, create a superuser username, password and email
+In order to login, create a superuser username, password, and email
 
     $ python manage.py createsuperuser
 
