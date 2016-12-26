@@ -19,7 +19,7 @@ Table of Contents
 * [Django- Getting Started](django/django-getting-started.md)
 * [Django- Development](django/django-development.md)
 * [Django- Admin](django/django-admin.md)
-* [Open-Source GitHub Organization](administration/open-source-github-organization.md)
+* [Open-Source GitHub Organization](open-source-github-organization.md)
 * [Other Options](other-options.md)
 * [Lessons Learned](lessons-learned.md)
 
